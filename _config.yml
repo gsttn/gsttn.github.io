@@ -5,3 +5,7 @@ theme: jekyll-theme-cayman
 
 show_downloads: false
 google_analytics:
+
+url: "https://gsttn.github.io/"
+plugins:
+  - jekyll-sitemap
