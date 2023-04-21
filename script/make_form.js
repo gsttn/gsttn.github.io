@@ -34,10 +34,13 @@ function set_for_begginer(){
 
 
 function setHotelReserveURLForm(tgt){
-tgtobj = document.getElementById(tgt).nextElementSibling.innerHTML = `
+tgtobj = document.getElementById(tgt).nextElementSibling
+tgtobj.style.backgroundColor = "#ddffee"
+tgtobj.style.padding = "15px"
+tgtobj.innerHTML = `
 <p><input id="${tgt}_rsv_date" type="date" onchange="setURL('${tgt}');"/></p>
 
-<p><select id="${tgt}_target_plan" onchange="setURL('${tgt}');">
+<p><select id="${tgt}_target_plan" onchange="setURL('${tgt}');" style="width:100%;">
   <option disabled style="color:red;">レア部屋</option>
   <option value="HODHMTGD0004N">スペチアーレ・ルーム＆スイート　ポルト・パラディーゾ・サイド テラスルーム ハーバーグランドビュー</option>
   <option value="HODHMTKD0004N">スペチアーレ・ルーム＆スイート　ポルト・パラディーゾ・サイド テラスルーム ハーバービュー</option>
