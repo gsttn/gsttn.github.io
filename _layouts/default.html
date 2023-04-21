@@ -48,5 +48,15 @@
         </span>
       </footer>
     </main>
+    <script>
+    if( location.href === 'https://gsttn.github.io/hotel/for_begginer.html'){
+      window.addEventListener('load', () => {
+        var sc = document.createElement('script');
+        sc.src = '/script/make_form.js';
+        sc.onload = function() {set_for_begginer()};
+        document.head.append(sc);
+      })
+    }
+    </script>
   </body>
 </html>
