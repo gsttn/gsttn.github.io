@@ -36,7 +36,7 @@ function set_for_begginer(){
 function setHotelReserveURLForm(tgt){
 tgtobj = document.getElementById(tgt).nextElementSibling
 tgtobj.style.backgroundColor = "#ddffee"
-tgtobj.style.padding = "15px"
+tgtobj.style.padding = "10px"
 tgtobj.innerHTML = `
 <p><input id="${tgt}_rsv_date" type="date" onchange="setURL('${tgt}');"/></p>
 
