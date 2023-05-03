@@ -9,6 +9,3 @@ google_analytics:
 url: "https://gsttn.github.io"
 plugins:
   - jekyll-sitemap
-
-sitemap:
-    exclude: "/test.md"
