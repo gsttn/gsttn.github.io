@@ -53,6 +53,7 @@ tgtobj.innerHTML = `
   <option value="HODHMHOW0005N">スペチアーレ・ルーム＆スイート　ポルト・パラディーゾ・サイド ハーバールーム ピアッツァビュー</option>
   <option value="HOTDHRCU0001N">コンシェルジュ・タレットルーム（７階） -- ツインベッド+トランドルベッド</option>
 
+<option disabled style="color:red;">調査対象＝20230910（調査日時＝Fri Jun 16 2023 19:43:28 GMT+0900 (日本標準時)）</option>
   <option disabled style="color:red;">東京ディズニーシー・ホテルミラコスタ</option>
   <option value="HODHMCAP0002N">トスカーナ・サイド カピターノ・ミッキー・スーペリアルーム（オープンタイプ） -- ツインベッド+トランドルベッド</option>
   <option value="HODHMCLG0001N">トスカーナ・サイド カピターノ・ミッキー・トリプルルーム ディズニーシー・アクアスフィアビュー -- トリプルベッド</option>
@@ -156,7 +157,6 @@ tgtobj.innerHTML = `
   <option value="HODAHTTN0004N">スタンダードフロア トリプルルーム -- トリプルベッド</option>
   <option value="HODAHNPQ0003N">アンバサダーフロア ミニーマウスルーム -- ツインベッド+トランドルベッド</option>
   <option value="HODAHNST0002N">アンバサダーフロア ミニーマウスルーム -- ツインベッド+トランドルベッド</option>
-  <option value="HODAHCHT0001N">スタンダードフロア チップとデールルーム -- ツインベッド+トランドルベッド</option>
   <option value="HODAHMPQ0004N">アンバサダーフロア ミッキーマウスルーム -- ツインベッド+トランドルベッド</option>
   <option value="HODAHMST0002N">アンバサダーフロア ミッキーマウスルーム -- ツインベッド+トランドルベッド</option>
   <option value="HODAHDON0002N">スタンダードフロア ドナルドダックルーム -- ツインベッド+トランドルベッド</option>
@@ -169,7 +169,13 @@ tgtobj.innerHTML = `
   <option value="HODAHUFD0001N">アンバサダーフロア ファンタジア・スイート -- ダブルベッド</option>
   <option value="HODAHMPN0001N">アンバサダーフロア ミッキーズ・ペントハウス・スイート -- ハリウッドツイン</option>
   <option value="HODAHUMT0001N">アンバサダーフロア ミッキーズ・プレミア・スイート -- ツインベッド</option>
-  <option value="HODAHM1B0001N">マーベルスペシャルルーム“アベンジャーズ：ヒーローズ・ユナイテッド”（6/1～8/31宿泊分） -- ツインベッド+トランドルベッド</option>
+  <option value="HODAHC170001N">スタンダードフロア チップとデールルーム（「チップとデールのプレイグラウンド」プラン）キャラクターグリーティング17:00 -- ツインベッド+トランドルベッド</option>
+  <option value="HODAHP160001N">スタンダードフロア スーペリアルーム（「チップとデールのプレイグラウンド」プラン）キャラクターグリーティング16:00 -- ツインベッド+トランドルベッド</option>
+  <option value="HODAHC180001N">スタンダードフロア チップとデールルーム（「チップとデールのプレイグラウンド」プラン）キャラクターグリーティング18:00 -- ツインベッド+トランドルベッド</option>
+  <option value="HODAHC160001N">スタンダードフロア チップとデールルーム（「チップとデールのプレイグラウンド」プラン）キャラクターグリーティング16:00 -- ツインベッド+トランドルベッド</option>
+  <option value="HODAHP190001N">スタンダードフロア スーペリアルーム（「チップとデールのプレイグラウンド」プラン）キャラクターグリーティング19:00 -- ツインベッド+トランドルベッド</option>
+  <option value="HODAHXA30001N">外壁工事対象客室（アンバサダーフロア　ミッキーマウスルーム）（定員３名） -- ツインベッド+トランドルベッド</option>
+  <option value="HODAHXS30001N">外壁工事対象客室（スタンダードフロア）（定員３名） -- ツインベッド+トランドルベッド</option>
 
   <option disabled style="color:red;">東京ディズニーリゾート・トイ・ストーリーホテル</option>
   <option value="HOTSHEQS0001N">スタンダードルーム パーシャルビュー -- ツインベッド＋トランドルベッド+プルダウンベッド</option>
@@ -201,6 +207,7 @@ tgtobj.innerHTML = `
   <option value="HODCHDS40001N">ディスカバー：東京ディズニーリゾート40周年“ドリームゴーラウンド”ルーム -- ツインベッド+デイベッド2台</option>
   <option value="HODCHWG40001N">ウィッシュ：東京ディズニーリゾート40周年“ドリームゴーラウンド”ルーム（ガーデンサイド） -- ツインベッド+デイベッド2台</option>
   <option value="HODCHWS40001N">ウィッシュ：東京ディズニーリゾート40周年“ドリームゴーラウンド”ルーム -- ツインベッド+デイベッド2台</option>
+
 </select></p>
 
 <p>大人：<select id="${tgt}_rsv_adult" onchange="setURL('${tgt}');">
