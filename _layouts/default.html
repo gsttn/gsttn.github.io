@@ -49,7 +49,7 @@
       </footer>
     </main>
     <script>
-    if( location.href === 'https://gsttn.github.io/hotel/for_begginer.html'){
+    if( location.href.startsWith('https://gsttn.github.io/hotel/for_begginer.html') ){
       window.addEventListener('load', () => {
         var sc = document.createElement('script');
         sc.src = '/script/make_form.js';

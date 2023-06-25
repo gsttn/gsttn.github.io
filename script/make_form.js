@@ -19,7 +19,7 @@ function setURL(px){
 
 
 function set_for_begginer(){
-  if( location.href === 'https://gsttn.github.io/hotel/for_begginer.html'){
+  if( location.href.startsWith('https://gsttn.github.io/hotel/for_begginer.html') ){
     var dd = new Date()
     dd.setMonth(dd.getMonth() + 3)
     var default_date = dd.getFullYear()+'-'+(dd.getMonth()+1).toString().padStart(2,"0")+'-'+dd.getDate().toString().padStart(2,"0");
