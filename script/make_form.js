@@ -53,7 +53,7 @@ tgtobj.innerHTML = `
   <option value="HODHMHOW0005N">スペチアーレ・ルーム＆スイート　ポルト・パラディーゾ・サイド ハーバールーム ピアッツァビュー</option>
   <option value="HOTDHRCU0001N">コンシェルジュ・タレットルーム（７階） -- ツインベッド+トランドルベッド</option>
 
-<option disabled style="color:red;">調査対象＝20230910（調査日時＝Fri Jun 16 2023 19:43:28 GMT+0900 (日本標準時)）</option>
+<option disabled style="color:red;">調査対象＝20230929（調査日時＝Thu Jun 29 2023 14:55:53 GMT+0900 (日本標準時)）</option>
   <option disabled style="color:red;">東京ディズニーシー・ホテルミラコスタ</option>
   <option value="HODHMCAP0002N">トスカーナ・サイド カピターノ・ミッキー・スーペリアルーム（オープンタイプ） -- ツインベッド+トランドルベッド</option>
   <option value="HODHMCLG0001N">トスカーナ・サイド カピターノ・ミッキー・トリプルルーム ディズニーシー・アクアスフィアビュー -- トリプルベッド</option>
@@ -176,6 +176,13 @@ tgtobj.innerHTML = `
   <option value="HODAHP190001N">スタンダードフロア スーペリアルーム（「チップとデールのプレイグラウンド」プラン）キャラクターグリーティング19:00 -- ツインベッド+トランドルベッド</option>
   <option value="HODAHXA30001N">外壁工事対象客室（アンバサダーフロア　ミッキーマウスルーム）（定員３名） -- ツインベッド+トランドルベッド</option>
   <option value="HODAHXS30001N">外壁工事対象客室（スタンダードフロア）（定員３名） -- ツインベッド+トランドルベッド</option>
+  <option value="HODAHXTU0001N">外壁工事対象客室（アンバサダーフロア　パノラマ・スイート） -- ツインベッド</option>
+  <option value="HODAHXD30001N">外壁工事対象客室(スタンダードフロア　スタンダードルーム　ダブル) -- ダブルベッド+トランドルベッド</option>
+  <option value="HODAHXUM0001N">外壁工事対象客室（アンバサダーフロア　ミッキーズ・プレミア・スイート） -- ツインベッド</option>
+  <option value="HODAHX170001N">外壁工事対象客室（スタンダードフロア チップとデールルーム（「チップとデールのプレイグラウンド」プラン）キャラクターグリーティング17:00） -- ツインベッド+トランドルベッド</option>
+  <option value="HODAHX180001N">外壁工事対象客室（スタンダードフロア チップとデールルーム（「チップとデールのプレイグラウンド」プラン）キャラクターグリーティング18:00） -- ツインベッド+トランドルベッド</option>
+  <option value="HODAHX160001N">外壁工事対象客室（スタンダードフロア チップとデールルーム（「チップとデールのプレイグラウンド」プラン）キャラクターグリーティング16:00） -- ツインベッド+トランドルベッド</option>
+
 
   <option disabled style="color:red;">東京ディズニーリゾート・トイ・ストーリーホテル</option>
   <option value="HOTSHEQS0001N">スタンダードルーム パーシャルビュー -- ツインベッド＋トランドルベッド+プルダウンベッド</option>
