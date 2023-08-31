@@ -53,7 +53,7 @@ tgtobj.innerHTML = `
   <option value="HODHMHOW0005N">スペチアーレ・ルーム＆スイート　ポルト・パラディーゾ・サイド ハーバールーム ピアッツァビュー</option>
   <option value="HOTDHRCU0001N">コンシェルジュ・タレットルーム（７階） -- ツインベッド+トランドルベッド</option>
 
-<option disabled style="color:red;">調査対象＝20231025（調査日時＝Tue Jul 25 2023 11:22:46 GMT+0900 (日本標準時)）</option>
+<option disabled style="color:red;">調査対象＝20231130（調査日時＝Thu Aug 31 2023 11:06:18 GMT+0900 (日本標準時)）</option>
   <option disabled style="color:red;">東京ディズニーシー・ホテルミラコスタ</option>
   <option value="HODHMCAP0002N">トスカーナ・サイド カピターノ・ミッキー・スーペリアルーム（オープンタイプ） -- ツインベッド+トランドルベッド</option>
   <option value="HODHMCLG0001N">トスカーナ・サイド カピターノ・ミッキー・トリプルルーム ディズニーシー・アクアスフィアビュー -- トリプルベッド</option>
@@ -170,6 +170,7 @@ tgtobj.innerHTML = `
   <option value="HODAHMPN0001N">アンバサダーフロア ミッキーズ・ペントハウス・スイート -- ハリウッドツイン</option>
   <option value="HODAHUMT0001N">アンバサダーフロア ミッキーズ・プレミア・スイート -- ツインベッド</option>
   <option value="HODAHM2A0001N">マーベルスペシャルルーム“アイアンマン”（9/13～10/31宿泊分） -- ツインベッド+トランドルベッド</option>
+  <option value="HODAHM2B0001N">マーベルスペシャルルーム“アイアンマン”（11/1～1/8宿泊分） -- ツインベッド+トランドルベッド</option>
   <option value="HODAHC170001N">スタンダードフロア チップとデールルーム（「チップとデールのプレイグラウンド」プラン）キャラクターグリーティング17:00 -- ツインベッド+トランドルベッド</option>
   <option value="HODAHP160001N">スタンダードフロア スーペリアルーム（「チップとデールのプレイグラウンド」プラン）キャラクターグリーティング16:00 -- ツインベッド+トランドルベッド</option>
   <option value="HODAHC180001N">スタンダードフロア チップとデールルーム（「チップとデールのプレイグラウンド」プラン）キャラクターグリーティング18:00 -- ツインベッド+トランドルベッド</option>
