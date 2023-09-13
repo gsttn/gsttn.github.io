@@ -12,6 +12,68 @@
     <meta name="google-site-verification" content="LbzcPQybj5_hJIqbhcaBhyjblHkWroK9weEVQ6H4Ssk" />
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
+    <style>
+      #menu-toggle {
+          display: none;
+      }
+      #menu-icon {
+          display: block;
+          position:fixed;
+          z-index:999;
+          top:0px;
+          right:0px;
+          cursor: pointer;
+          padding: 8px;
+          background-color: #333;
+          color: #fff;
+      }
+      #menu-icon span {
+          display: block;
+          height: 2px;
+          width: 20px;
+          margin: 3px auto;
+          background-color: #fff;
+          transition: 0.4s;
+      }
+      #menu-toggle:checked + #menu-icon span:nth-child(1) {
+          transform: rotate(-45deg) translate(-3px, 4px);
+      }
+      #menu-toggle:checked + #menu-icon span:nth-child(2) {
+          opacity: 0;
+      }
+      #menu-toggle:checked + #menu-icon span:nth-child(3) {
+          transform: rotate(45deg) translate(-3px, -4px);
+      }
+      #menu {
+          position: fixed;
+          visibility: hidden;
+          opacity: 0;
+          top: 0;
+          right: 0;
+          width: auto;
+          background-color: #159957;
+          background-image: linear-gradient(120deg, #155799, #159957);
+          z-index:998;
+          padding: 20px;
+          transition: 0.4s;
+      }
+      #menu ul {
+          list-style: none;
+      }
+      #menu ul li, #menu h4 {
+          margin: 5px 0;
+      }
+      #menu ul li a,#menu h4 {
+          text-decoration: none;
+          color: #fff;
+          font-size: 18px;
+          transition: 0.2s;
+      }
+      #menu-toggle:checked ~ #menu {
+          visibility: visible;
+          opacity: 1;
+      }
+    </style>
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
@@ -27,6 +89,30 @@
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
     </header>
+    <input type="checkbox" id="menu-toggle">
+    <label for="menu-toggle" id="menu-icon"><span></span><span></span><span></span></label>
+    <nav id="menu">
+    <a href="/"><h4>TOP</h4></a>
+    <h4>共通</h4>
+    <ul>
+      <li><a href="/common/basics.html">基礎情報</a></li>
+      <li><a href="/common/hints.html">非公式な心得</a></li>
+      <li><a href="/common/queue.html">待合室</a></li>
+      <li><a href="/common/glossary.html">用語集</a></li>
+      <li><a href="/common/trivia.html">トリビア</a></li>
+    </ul>
+    <h4>レストラン</h4>
+    <ul>
+      <li><a href="/restaurant/for_begginer.html">ビギナー向け予約手順</a></li>
+      <li><a href="/restaurant/basics.html">基礎情報</a></li>
+    </ul>
+    <h4>ホテル宿泊</h4>
+    <ul>
+      <li><a href="/hotel/for_begginer.html">ビギナー向け予約手順</a></li>
+      <li><a href="/hotel/basics.html">基礎情報</a></li>
+      <li><a href="/hotel/research.html">非公式な調査結果</a></li>
+    </ul>
+    </nav>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
