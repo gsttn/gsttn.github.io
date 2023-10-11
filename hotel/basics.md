@@ -41,7 +41,7 @@
 * ミラコスイート：8
 * イルマニ：1
 
-ちなみに[ファンタジー・スプリングス・ホテル](https://www.tokyodisneyresort.jp/special/fantasysprings/#springshotel)のグランシャトーは56室だそうです。
+ちなみに[ファンタジー・スプリングス・ホテル](https://www.tokyodisneyresort.jp/special/fantasysprings/#springshotel)のラグジュアリーなグランドシャトーは56室だそうです。
 
 
 ### 最も単純で効果的な予約対策
