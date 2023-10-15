@@ -297,3 +297,23 @@ tgtobj.innerHTML = `
 <p id="${tgt}_result"></p>
 `
 }
+
+
+function createTOC(){
+  var tgtobj=null,outbuf=''
+  document.querySelectorAll("h2,h3").forEach((dom,i,h2nodes)=>{
+    if(i>1&&h2nodes[i-1].id=='概要')tgtobj=dom
+    if(!tgtobj)return
+    outbuf+=`<li${dom.tagName=='H3'?' style="margin-left:2em;"':''}><a href="#${dom.id}">${dom.textContent}</a></li>`
+  })
+  if( outbuf && tgtobj){
+    a=document.createElement('h4');
+    a.innerHTML=`目次 ［<a onclick="javascript:d=document.getElementById('目次');d.style.display=(d.style.display=='none'?'block':'none');return false;">開閉</a>］`
+    tgtobj.before(a)
+    a=document.createElement('ul');
+    a.id='目次'
+    a.style.display='none'
+    a.innerHTML=`${outbuf}`
+    tgtobj.before(a)
+  }
+}
