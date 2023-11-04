@@ -21,7 +21,7 @@ function setURL(px){
 function set_for_begginer(){
   if( location.href.startsWith('https://gsttn.github.io/hotel/for_begginer.html') ){
     var dd = new Date()
-    dd.setMonth(dd.getMonth() + 3)
+    dd.setMonth(dd.getMonth() + 4)
     var default_date = dd.getFullYear()+'-'+(dd.getMonth()+1).toString().padStart(2,"0")+'-'+dd.getDate().toString().padStart(2,"0");
 
     ['pc用11時予約url', 'スマホ用11時予約url', 'pc用キャンセル拾いurl', 'スマホ用キャンセル拾いurl'].forEach(tgt => {
