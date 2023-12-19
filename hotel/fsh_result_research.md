@@ -29,9 +29,9 @@
 
 ### バケパ1名予約時の価格
 
-* [ベイエリアサイド スーペリアルーム](https://www.tokyodisneyresort.jp/hotel/fsh/fcu/room/detail/bayarea_superior/) ： 141,700円
-* [ローズコートサイド スーペリア・アルコーヴルーム（パークビュー）](https://www.tokyodisneyresort.jp/hotel/fsh/fcu/room/detail/rose_superior_cove_park/) ： 156,100円
-* [スプリングスサイド デラックス・アルコーヴルーム（パークグランドビュー）](https://www.tokyodisneyresort.jp/hotel/fsh/fcu/room/detail/springs_cove_grand/) ： 174,500円
+* [ベイエリアサイド スーペリアルーム](https://www.tokyodisneyresort.jp/hotel/fsh/fcu/room/detail/bayarea_superior/) ： **141,700円**
+* [ローズコートサイド スーペリア・アルコーヴルーム（パークビュー）](https://www.tokyodisneyresort.jp/hotel/fsh/fcu/room/detail/rose_superior_cove_park/) ： **156,100円**
+* [スプリングスサイド デラックス・アルコーヴルーム（パークグランドビュー）](https://www.tokyodisneyresort.jp/hotel/fsh/fcu/room/detail/springs_cove_grand/) ： **174,500円**
 
 価格確認時の設定条件は以下の通りです。
 
