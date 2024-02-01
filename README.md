@@ -45,6 +45,8 @@ TDRの希少価値が高く予約確保が困難なホテル宿泊とレスト�
     * ちなみに11時少し前の時点において、02/05分はたまに空きが落ちるようにも見えましたが、ほぼ埋まっていると見て良さそうですね
 * というか、[スプホの詳細が予約サイトに掲載](https://reserve.tokyodisneyresort.jp/hotel/list/?showWay=&roomsNum=&adultNum=&childNum=&stayingDays=1&useDate=&cpListStr=&childAgeBedInform=&searchHotelCD=FSH&searchHotelDiv=&hotelName=&searchHotelName=&searchLayer=&searchRoomName=&hotelSearchDetail=true&detailOpenFlg=0&checkPointStr=&hotelChangeFlg=false&removeSessionFlg=true&returnFlg=false&hotelShowFlg=&displayType=hotel-search&reservationStatus=1)されましたね
     * これが本当なら思ったよりグランドシャトー上位陣の宿泊費用って安いような気もしますね、厳密には初日を迎えてみないと判らない部分も多いですが…
+* 原因不明なのですがページの公開が出来なくなりました、ここを見ている人が居るとも思えませんが一応は更新継続しておこうかな、と考えてはいます
+    * このタイミングで消えたので、スプホ公開との兼ね合いで情報を隠したのではないかと思われそうですが、隠すならリポジトリ（つまり現在表示している場所）も消しますから…
 
 ## マシュマロにお返事
 
