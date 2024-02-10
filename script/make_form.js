@@ -11,7 +11,7 @@ function setURL(px){
   if( px.search('キャンセル') > -1 ){
     var url = `https://reserve.tokyodisneyresort.jp/${sp}hotel/list/?showWay=&roomsNum=1&adultNum=${an.value}&childNum=${cn}&childAgeBedInform=${encodeURIComponent(c1.value+c2.value)}&stayingDays=1&useDate=&cpListStr=&searchHotelCD=&searchHotelDiv=&hotelName=&searchHotelName=&searchLayer=&searchRoomName=&hotelSearchDetail=true&checkPointStr=&displayType=hotel-search&reservationStatus=1&hotelRoomCd=${tp.value}`
   }else{
-    var url = `https://reserve.tokyodisneyresort.jp/${sp}hotel/list/?useDate=${ud}&stayingDays=1&adultNum=${an.value}&childNum=${cn}&childAgeBedInform=${encodeURIComponent(c1.value+c2.value)}&roomsNum=1&checkPointStr=&searchHotelName=&searchLayer=&searchRoomName=${encodeURIComponent(tp.options[tp.selectedIndex].text.replace(/ -- .*$/, ''))}&hotelChangeFlg=false&hotelShowFlg=0&receiptNO=&searchHotelDiv=&searchHotelCD=${tp.value.substr(2,3)}&removeSessionFlg=true&errorBeforeUrl=&displayType=data-hotel_change&reservationStatus=0&hotelRoomCd=${tp.value}#tabCont1`
+    var url = `https://reserve.tokyodisneyresort.jp/${sp}hotel/list/?useDate=${ud}&stayingDays=1&adultNum=${an.value}&childNum=${cn}&childAgeBedInform=${encodeURIComponent(c1.value+c2.value)}&roomsNum=1&checkPointStr=&searchHotelName=&searchLayer=&searchRoomName=${encodeURIComponent(tp.options[tp.selectedIndex].text.replace(/ -- .*$/, ''))}&hotelChangeFlg=false&hotelShowFlg=0&receiptNO=&searchHotelDiv=&searchHotelCD=${tp.value.substr(2,3)}&removeSessionFlg=true&errorBeforeUrl=&displayType=data-hotel&reservationStatus=0&hotelRoomCd=${tp.value}#tabCont1`
   }
   var disp = `${dt.value} ${tp.options[tp.selectedIndex].text}(大人 ${an.options[an.selectedIndex].text}、子供 ${cn}名)`
   document.getElementById(px+'_result').innerHTML=`<a href="${url}" target="_blank">${disp}</a>`
@@ -52,8 +52,10 @@ tgtobj.innerHTML = `
   <option value="HODHMHKQ0005N">スペチアーレ・ルーム＆スイート　ポルト・パラディーゾ・サイド ハーバールーム ハーバービュー</option>
   <option value="HODHMHOW0005N">スペチアーレ・ルーム＆スイート　ポルト・パラディーゾ・サイド ハーバールーム ピアッツァビュー</option>
   <option value="HOTDHRCU0001N">コンシェルジュ・タレットルーム（７階） -- ツインベッド+トランドルベッド</option>
+  <option value="HOFSHSBT0001N">ファンタジーシャトー スプリングスサイド デラックス・バルコニールーム（パークグランドビュー）</option>
+  <option value="HOFSHSBA0001N">ファンタジーシャトー スプリングスサイド デラックス・バルコニー&アルコーヴルーム（パークグランドビュー）</option>
 
-<option disabled style="color:red;">調査日時＝2024-02-01 12:10</option>
+<option disabled style="color:red;">調査日時＝2024-02-09 10:40</option>
   <option disabled style="color:red;">ファンタジースプリングスホテル</option>
   <option value="HOFSHBST0001N">ファンタジーシャトー ベイエリアサイド スーペリアルーム -- ツインベッド+トランドルベッド+クルーズベッド</option>
   <option value="HOFSHBSA0001N">ファンタジーシャトー ベイエリアサイド スーペリア・アルコーヴルーム -- ツインベッド+トランドルベッド+アルコーヴベッド</option>
@@ -83,8 +85,9 @@ tgtobj.innerHTML = `
   <option value="HOFSHGTT0001N">グランドシャトー テラスルーム（５‐７階） -- ツインベッド+トランドルベッド+クルーズベッド</option>
   <option value="HOFSHGMG0001N">グランドシャトー グランドルーム（５‐６階） -- ツインベッド+トランドルベッド+クルーズベッド</option>
   <option value="HOFSHGUG0001N">グランドシャトー グランドルーム（９階） -- ツインベッド+トランドルベッド+クルーズベッド</option>
+  <option value="HOFSHGUA0001N">グランドシャトー アルコーヴルーム（８‐９階） -- ツインベッド+トランドルベッド+アルコーヴベッド</option>
   <option value="HOFSHGTG0001N">グランドシャトー グランド・テラスルーム（８階） -- ツインベッド+トランドルベッド+クルーズベッド</option>
-<option disabled style="color:red;">調査日時＝2023-11-09 19:03</option>
+
   <option disabled style="color:red;">東京ディズニーシー・ホテルミラコスタ</option>
   <option value="HODHMCAP0002N">トスカーナ・サイド カピターノ・ミッキー・スーペリアルーム（オープンタイプ） -- ツインベッド+トランドルベッド</option>
   <option value="HODHMCLG0001N">トスカーナ・サイド カピターノ・ミッキー・トリプルルーム ディズニーシー・アクアスフィアビュー -- トリプルベッド</option>
@@ -123,7 +126,6 @@ tgtobj.innerHTML = `
   <option value="HODHMTGD0004N">スペチアーレ・ルーム＆スイート　ポルト・パラディーゾ・サイド テラスルーム ハーバーグランドビュー -- ダブルベッド</option>
 
   <option disabled style="color:red;">東京ディズニーランドホテル</option>
-  <option value="HOTDHF400001N">「東京ディズニーリゾート40周年“ドリームゴーラウンド”」グランドフィナーレスペシャルルーム -- ツインベッド+トランドルベッド+アルコーヴベッド</option>
   <option value="HOTDHGCM0002N">スタンダード スーペリアルーム（パークグランドビュー）（５－６階） -- ツインベッド+トランドルベッド</option>
   <option value="HOTDHGWM0002N">スタンダード スーペリアルーム（パークグランドビュー）（５－６階） -- ダブルベッド</option>
   <option value="HOTDHSWN0001N">スタンダード スーペリアルーム（３－４階） -- ダブルベッド</option>
@@ -138,18 +140,6 @@ tgtobj.innerHTML = `
   <option value="HOTDHSAU0002N">スタンダード スーペリアアルコーヴルーム（パークビュー）（７－８階） -- ツインベッド+トランドルベッド+アルコーヴベッド</option>
   <option value="HOTDHGAM0001N">スタンダード スーペリアアルコーヴルーム（パークグランドビュー）（５－６階） -- ツインベッド+トランドルベッド+アルコーヴベッド</option>
   <option value="HOTDHSAM0004N">スタンダード スーペリアアルコーヴルーム（パークビュー）（３－６階） -- ツインベッド+トランドルベッド+アルコーヴベッド</option>
-  <option value="HOTDHDTB0002N">ディズニー美女と野獣ルーム（３－８階） -- ツインベッド+トランドルベッド</option>
-  <option value="HOTDHBTH0002N">ディズニー美女と野獣ルーム（３－８階） -- ツインベッド</option>
-  <option value="HOTDHRCC0002N">コンシェルジュ・ディズニーシンデレラルーム（８－９階） -- ツインベッド+トランドルベッド</option>
-  <option value="HOTDHCCC0002N">ディズニーシンデレラルーム（５－７階） -- ツインベッド+トランドルベッド</option>
-  <option value="HOTDHSAW0005N">ディズニーふしぎの国のアリスルーム（３－８階） -- ツインベッド+トランドルベッド+アルコーヴベッド</option>
-  <option value="HOTDHBSL0002N">ディズニー美女と野獣ルーム（１－２階） -- トリプルベッド</option>
-  <option value="HOTDHBTL0002N">ディズニー美女と野獣ルーム（１－２階） -- ツインベッド</option>
-  <option value="HOTDHSAT0006N">ディズニーティンカーベルルーム(３－９階） -- ツインベッド+トランドルベッド+アルコーヴベッド</option>
-  <option value="HOTDHSCW0002N">ディズニーふしぎの国のアリスルーム（３－９階） -- ツインベッド+トランドルベッド</option>
-  <option value="HOTDHSOT0002N">ディズニーティンカーベルルーム(５－９階） -- ツインベッド+トランドルベッド</option>
-  <option value="HOTDHDAB0002N">ディズニー美女と野獣ルーム（５－９階） -- ツインベッド+トランドルベッド+アルコーヴベッド</option>
-  <option value="HOTDHBSH0004N">ディズニー美女と野獣ルーム（３－９階） -- トリプルベッド</option>
   <option value="HOTDHDWH0001N">スタンダード・デラックスルーム（４階） -- ダブルベッド</option>
   <option value="HOTDHDOH0002N">スタンダード デラックスルーム（４－８階） -- ツインベッド+トランドルベッド</option>
   <option value="HOTDHDCN0001N">スタンダード デラックスルーム（３－４階）４名対応 -- ツインベッド+トランドルベッド+クルーズベッド</option>
@@ -162,6 +152,18 @@ tgtobj.innerHTML = `
   <option value="HOTDHJLM0002N">スタンダード ジュニアファミリールーム(パークビュー）（４－６階） -- トリプルベッド+トランドルベッド</option>
   <option value="HOTDHFMM0002N">スタンダード・ファミリールーム（パークビュー）（５－６階） -- ツインベッド+アルコーヴベッド+アルコーヴベッド+クルーズベッド</option>
   <option value="HOTDHJLL0002N">スタンダード ジュニアファミリールーム(１－３階） -- トリプルベッド+トランドルベッド</option>
+  <option value="HOTDHDTB0002N">ディズニー美女と野獣ルーム（３－８階） -- ツインベッド+トランドルベッド</option>
+  <option value="HOTDHBTH0002N">ディズニー美女と野獣ルーム（３－８階） -- ツインベッド</option>
+  <option value="HOTDHRCC0002N">コンシェルジュ・ディズニーシンデレラルーム（８－９階） -- ツインベッド+トランドルベッド</option>
+  <option value="HOTDHCCC0002N">ディズニーシンデレラルーム（５－７階） -- ツインベッド+トランドルベッド</option>
+  <option value="HOTDHSAW0005N">ディズニーふしぎの国のアリスルーム（３－８階） -- ツインベッド+トランドルベッド+アルコーヴベッド</option>
+  <option value="HOTDHBSL0002N">ディズニー美女と野獣ルーム（１－２階） -- トリプルベッド</option>
+  <option value="HOTDHBTL0002N">ディズニー美女と野獣ルーム（１－２階） -- ツインベッド</option>
+  <option value="HOTDHSAT0006N">ディズニーティンカーベルルーム(３－９階） -- ツインベッド+トランドルベッド+アルコーヴベッド</option>
+  <option value="HOTDHSCW0002N">ディズニーふしぎの国のアリスルーム（３－９階） -- ツインベッド+トランドルベッド</option>
+  <option value="HOTDHSOT0002N">ディズニーティンカーベルルーム(５－９階） -- ツインベッド+トランドルベッド</option>
+  <option value="HOTDHDAB0002N">ディズニー美女と野獣ルーム（５－９階） -- ツインベッド+トランドルベッド+アルコーヴベッド</option>
+  <option value="HOTDHBSH0004N">ディズニー美女と野獣ルーム（３－９階） -- トリプルベッド</option>
   <option value="HOTDHRBC0001N">コンシェルジュ・バルコニールーム（パークグランドビュー）　（８階）　４名対応 -- ツインベッド+トランドルベッド+クルーズベッド</option>
   <option value="HOTDHRCM0002N">コンシェルジュ・タレットルーム（３－６階） -- ツインベッド+トランドルベッド</option>
   <option value="HOTDHRDM0001N">コンシェルジュ･デラックスルーム（パークビュー）（３－６階） -- ツインベッド+トランドルベッド</option>
@@ -179,22 +181,8 @@ tgtobj.innerHTML = `
   <option value="HOTDHRWD0001N">ウォルト･ディズニー･スイート（９階） -- キングベッド</option>
 
   <option disabled style="color:red;">ディズニーアンバサダーホテル</option>
-  <option value="HODAHM2B0001N">マーベルスペシャルルーム“アイアンマン”（11/1～1/8宿泊分） -- ツインベッド+トランドルベッド</option>
+  <option value="HODAHPPD0001N">「ディズニー・パルパルーザ“ドナルドのクワッキー・ダックシティ”」スペシャルルーム -- ツインベッド+トランドルベッド</option>
   <option value="HODAHPPM0001N">ディズニーアンバサダーホテル「ディズニー・パルパルーザ“ミニーのファンダーランド”」スペシャルルーム -- ツインベッド+トランドルベッド</option>
-  <option value="HODAHXMB0001N">外壁工事対象客室（マーベルスペシャルルーム“アイアンマン”）（11/1～11/26宿泊分） -- ツインベッド+トランドルベッド</option>
-  <option value="HODAHXA30001N">外壁工事対象客室（アンバサダーフロア　ミッキーマウスルーム）（定員３名） -- ツインベッド+トランドルベッド</option>
-  <option value="HODAHXS30001N">外壁工事対象客室（スタンダードフロア）（定員３名） -- ツインベッド+トランドルベッド</option>
-  <option value="HODAHXTU0001N">外壁工事対象客室（アンバサダーフロア　パノラマ・スイート） -- ツインベッド</option>
-  <option value="HODAHXD30001N">外壁工事対象客室(スタンダードフロア　スタンダードルーム　ダブル) -- ダブルベッド+トランドルベッド</option>
-  <option value="HODAHXUM0001N">外壁工事対象客室（アンバサダーフロア　ミッキーズ・プレミア・スイート） -- ツインベッド</option>
-  <option value="HODAHX170001N">外壁工事対象客室（スタンダードフロア チップとデールルーム（「チップとデールのプレイグラウンド」プラン）キャラクターグリーティング17:00） -- ツインベッド+トランドルベッド</option>
-  <option value="HODAHX180001N">外壁工事対象客室（スタンダードフロア チップとデールルーム（「チップとデールのプレイグラウンド」プラン）キャラクターグリーティング18:00） -- ツインベッド+トランドルベッド</option>
-  <option value="HODAHX160001N">外壁工事対象客室（スタンダードフロア チップとデールルーム（「チップとデールのプレイグラウンド」プラン）キャラクターグリーティング16:00） -- ツインベッド+トランドルベッド</option>
-  <option value="HODAHXPM0001N">外壁工事対象客室（ディズニーアンバサダーホテル「ディズニー・パルパルーザ“ミニーのファンダーランド”」スペシャルルーム） -- ツインベッド+トランドルベッド</option>
-  <option value="HODAHXFD0001N">外壁工事対象客室（アンバサダーフロア　ファンタジア・スイート） -- ダブルベッド</option>
-  <option value="HODAHXDP0001N">外壁工事対象客室（スタンダードフロア　ドナルドダックルーム）（定員３名） -- ツインベッド+トランドルベッド</option>
-  <option value="HODAHXDU0001N">外壁工事対象客室（アンバサダーフロア パノラマ・スイート） -- ダブルベッド</option>
-  <option value="HODAHXN30001N">外壁工事対象客室（アンバサダーフロア　ミニーマウスルーム）（定員３名） -- ツインベッド+トランドルベッド</option>
   <option value="HODAHC170001N">スタンダードフロア チップとデールルーム（「チップとデールのプレイグラウンド」プラン）キャラクターグリーティング17:00 -- ツインベッド+トランドルベッド</option>
   <option value="HODAHP160001N">スタンダードフロア スーペリアルーム（「チップとデールのプレイグラウンド」プラン）キャラクターグリーティング16:00 -- ツインベッド+トランドルベッド</option>
   <option value="HODAHC180001N">スタンダードフロア チップとデールルーム（「チップとデールのプレイグラウンド」プラン）キャラクターグリーティング18:00 -- ツインベッド+トランドルベッド</option>
@@ -222,6 +210,18 @@ tgtobj.innerHTML = `
   <option value="HODAHUFD0001N">アンバサダーフロア ファンタジア・スイート -- ダブルベッド</option>
   <option value="HODAHMPN0001N">アンバサダーフロア ミッキーズ・ペントハウス・スイート -- ハリウッドツイン</option>
   <option value="HODAHUMT0001N">アンバサダーフロア ミッキーズ・プレミア・スイート -- ツインベッド</option>
+  <option value="HODAHXPM0001N">外壁工事対象客室（ディズニーアンバサダーホテル「ディズニー・パルパルーザ“ミニーのファンダーランド”」スペシャルルーム） -- ツインベッド+トランドルベッド</option>
+  <option value="HODAHXFD0001N">外壁工事対象客室（アンバサダーフロア　ファンタジア・スイート） -- ダブルベッド</option>
+  <option value="HODAHXD30001N">外壁工事対象客室(スタンダードフロア　スタンダードルーム　ダブル) -- ダブルベッド+トランドルベッド</option>
+  <option value="HODAHXDP0001N">外壁工事対象客室（スタンダードフロア　ドナルドダックルーム）（定員３名） -- ツインベッド+トランドルベッド</option>
+  <option value="HODAHXDU0001N">外壁工事対象客室（アンバサダーフロア パノラマ・スイート） -- ダブルベッド</option>
+  <option value="HODAHXN30001N">外壁工事対象客室（アンバサダーフロア　ミニーマウスルーム）（定員３名） -- ツインベッド+トランドルベッド</option>
+  <option value="HODAHXP70001N">外壁工事対象客室（スタンダードフロア スーペリアルーム（「チップとデールのプレイグラウンド」プラン）キャラクターグリーティング19:00） -- ツインベッド+トランドルベッド</option>
+  <option value="HODAHXS30001N">外壁工事対象客室（スタンダードフロア）（定員３名） -- ツインベッド+トランドルベッド</option>
+  <option value="HODAHXSD0001N">外壁工事対象客室（スタンダードフロア　スティッチルーム） -- ツインベッド+トランドルベッド</option>
+  <option value="HODAHXP40001N">外壁工事対象客室（スタンダードフロア スーペリアルーム（「チップとデールのプレイグラウンド」プラン）キャラクターグリーティング16:00） -- ツインベッド+トランドルベッド</option>
+  <option value="HODAHXST0001N">外壁工事対象客室（スタンダードフロア　スタンダードルーム） -- ツインベッド+トランドルベッド</option>
+
 
   <option disabled style="color:red;">東京ディズニーリゾート・トイ・ストーリーホテル</option>
   <option value="HOTSHEQS0001N">スタンダードルーム パーシャルビュー -- ツインベッド＋トランドルベッド+プルダウンベッド</option>
