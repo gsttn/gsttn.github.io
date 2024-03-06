@@ -12,10 +12,10 @@ TDRの希少価値が高く予約確保が困難なホテル宿泊とレスト�
 
 ## 最近の更新
 
-* 2024-02-22　[予約開放日の実績調査](./hotel/fsh_result_research.md#20240222-スプホ予約争奪戦-第3週目)にスプホ開放第2週02/22の様子を追加
-* 2024-02-29　[予約開放日の実績調査](./hotel/fsh_result_research.md#20240229-スプホ予約争奪戦-第4週目)にスプホ開放第2週02/29の様子を追加
+* 2024-02-22　[予約開放日の実績調査](./hotel/fsh_result_research.md#20240222-スプホ予約争奪戦-第3週目)にスプホ開放第3週02/22の様子を追加
+* 2024-02-29　[予約開放日の実績調査](./hotel/fsh_result_research.md#20240229-スプホ予約争奪戦-第4週目)にスプホ開放第4週02/29の様子を追加
 * 2024-03-04　[ファンタジースプリングス一般情報](./hotel/fsh_guide.md)を追加（ちょいちょい内容更新中）
-* 2024-03-06　[予約開放日の実績調査](./hotel/fsh_result_research.md#20240306-スプホ予約争奪戦-第5週目)にスプホ開放第2週02/15の様子を追加
+* 2024-03-06　[予約開放日の実績調査](./hotel/fsh_result_research.md#20240306-スプホ予約争奪戦-第5週目)にスプホ開放第5週02/15の様子を追加
 
 ----
 
@@ -76,7 +76,8 @@ TDRの希少価値が高く予約確保が困難なホテル宿泊とレスト�
     * [グランドシャトーのテラスのみに絞ったURL](https://reserve.tokyodisneyresort.jp/hotel/list/?showWay=&roomsNum=1&adultNum=2&childNum=0&stayingDays=1&keyword=%E3%83%86%E3%83%A9%E3%82%B9&useDate=20240706&cpListStr=&childAgeBedInform=&searchHotelCD=FSH&searchHotelDiv=&hotelName=&searchHotelName=&searchLayer=&searchRoomName=&hotelSearchDetail=true&checkPointStr=32&displayType=data-hotel&reservationStatus=0)
     * [グランドシャトーのテラス（グランド除く）のみに絞ったURL](https://reserve.tokyodisneyresort.jp/hotel/list/?showWay=&roomsNum=1&adultNum=2&childNum=0&stayingDays=1&keyword=%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%B7%E3%83%A3%E3%83%88%E3%83%BC%20%E3%83%86%E3%83%A9%E3%82%B9&useDate=20240706&cpListStr=&childAgeBedInform=&searchHotelCD=FSH&searchHotelDiv=&hotelName=&searchHotelName=&searchLayer=&searchRoomName=&hotelSearchDetail=true&checkPointStr=32&displayType=data-hotel&reservationStatus=0)
     * [グランドシャトーのグランドルームのみに絞ったURL](https://reserve.tokyodisneyresort.jp/hotel/list/?showWay=&roomsNum=1&adultNum=2&childNum=0&stayingDays=1&keyword=%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%B7%E3%83%A3%E3%83%88%E3%83%BC%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89&useDate=20240706&cpListStr=&childAgeBedInform=&searchHotelCD=FSH&searchHotelDiv=&hotelName=&searchHotelName=&searchLayer=&searchRoomName=&hotelSearchDetail=true&checkPointStr=32&displayType=data-hotel&reservationStatus=0)
-    * あまり調査していない雑な推測ですが、ホテルの説明文と部屋の説明文をキーワード検索しているっぽいので、単純に『ファンタジーシャトー』とか『グランドシャトー』で検索させるとホテル説明にヒットして全部屋がマッチする、みたいな挙動に見えなくもないですが確証はないです
+    * あまり調査していない雑な推測ですが、ホテルの説明文と部屋の説明文もキーワード検索しているっぽいので、単純に『ファンタジーシャトー』とか『グランドシャトー』で検索させるとホテル説明にヒットして全部屋がマッチする、みたいな挙動に見えなくもないですが確証はないです
+* 今更ながら、[ハッピーエントリーのランド対象外にしている日程](https://www.tokyodisneyresort.jp/hotel/topics/info/happy_entry.html)って、パルパルドナ関連の混雑対策のつもりでしょうかね？06/09はドナ誕の日曜日、06/29と30はラス日の日曜とその前日、という辺りで…
 
 
 ## マシュマロにお返事
@@ -130,8 +131,7 @@ TDRの希少価値が高く予約確保が困難なホテル宿泊とレスト�
 | ------------- | ------------- | ------------- | ------------- |
 | ファンタジースプリングスホテル | 2024/06/06～2024/06/08 | 再開放待ち | 2024/02/08一括開放、 [3月下旬頃までに再開放のお知らせ](https://www.tokyodisneyresort.jp/hotel/topics/info/operation/fsh_reservation.html) |
 | [アンバ：パルパルドナ](https://www.tokyodisneyresort.jp/hotel/memory/dah/quacky/) | 2024/04/09～2024/06/30 | 2024/02/13～2024/03/30 | 2024/02/13 13:00 一括開放 |
-| ファンタジースプリングスホテル | 2024/06/30～2024/07/06 | 2024/03/06 13:00 |  |
-| [スプホ：バケパ](https://reserve.tokyodisneyresort.jp/news/detail/2490/) | 2024/08/01～2024/08/31 | 2024/03/05 15:00 | 一括開放 |
+| ファンタジースプリングスホテル | 2024/06/30～2024/07/06 | キャンセル拾い | 2024/03/06一括開放 |
 | ファンタジースプリングスホテル | 2024/06/09～2024/06/15 | キャンセル拾い | 2024/02/15一括開放  |
 | ファンタジースプリングスホテル | 2024/06/16～2024/06/22 | キャンセル拾い | 2024/02/22一括開放 |
 | ファンタジースプリングスホテル | 2024/06/23～2024/06/29 | キャンセル拾い | 2024/02/29一括開放 |
@@ -139,7 +139,8 @@ TDRの希少価値が高く予約確保が困難なホテル宿泊とレスト�
 | [セレブレ：40周年グランドフィナーレ](https://www.tokyodisneyresort.jp/hotel/dch/topics/tdr40th_room.html) | 2024/01/23～2024/03/31 | キャンセル拾い |  |
 | [アンバ：パルパルミニー](https://www.tokyodisneyresort.jp/hotel/memory/dah/funderland/) | 2024/01/19～2024/04/07 | キャンセル拾い |  |
 | [スプホ：プレビューバケパ](https://reserve.tokyodisneyresort.jp/vp/detail/PAI1FSPSALL75/) | 2024/05/27～2024/05/31 | キャンセル拾い | 2023/12/19一括開放 |
-| [スプホ：バケパ](https://reserve.tokyodisneyresort.jp/news/detail/2464/) | 2024/06/05～2024/06/30 | キャンセル拾い | 2024/01/16一括開放 |
+| [スプホ：バケパ](https://reserve.tokyodisneyresort.jp/news/detail/2490/) | 2024/08/01～2024/08/31 | キャンセル拾い | 2024/03/05一括開放 |
 | [スプホ：バケパ](https://reserve.tokyodisneyresort.jp/news/detail/2473/) | 2024/07/01～2024/07/31 | キャンセル拾い | 2024/02/01一括開放 |
+| [スプホ：バケパ](https://reserve.tokyodisneyresort.jp/news/detail/2464/) | 2024/06/05～2024/06/30 | キャンセル拾い | 2024/01/16一括開放 |
 | [スプホ：バケパ](https://reserve.tokyodisneyresort.jp/news/detail/2484/)<br>[スプホ：バケパ](https://reserve.tokyodisneyresort.jp/news/detail/2485/)  | 2024/06/05～2024/06/30 | キャンセル拾い | 販売期間はプラン次第 |
 
