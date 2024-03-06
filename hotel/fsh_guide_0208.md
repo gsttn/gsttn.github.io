@@ -48,7 +48,7 @@
 普通に公式予約サイトに入って、ホテル→日付・価格から探す→日程と人数を設定→検索する→ホテルで絞り込むでスプホのみ選択→再検索、というのが通常のルートでしょうかね。
 実際、これだと他ホテルも含めて全部屋の空き枠を検索しているのと同じで表示上だけ絞っている挙動になりそうです。
 
-ということで、[スプホのみに絞ったURL](https://reserve.tokyodisneyresort.jp/hotel/list/?showWay=&roomsNum=1&adultNum=2&childNum=0&stayingDays=1&keyword=%E3%82%B7%E3%83%A3%E3%83%88%E3%83%BC&useDate=20240609&cpListStr=&childAgeBedInform=&searchHotelCD=FSH&searchHotelDiv=&hotelName=&searchHotelName=&searchLayer=&searchRoomName=&hotelSearchDetail=true&checkPointStr=32&displayType=data-hotel&reservationStatus=0)を利用してもらっても良いかと思います。
+ということで、[スプホのみに絞ったURL](https://reserve.tokyodisneyresort.jp/hotel/list/?showWay=&roomsNum=1&adultNum=2&childNum=0&stayingDays=1&keyword=%E3%82%B7%E3%83%A3%E3%83%88%E3%83%BC&useDate=20240609&cpListStr=&childAgeBedInform=&searchHotelCD=FSH&searchHotelDiv=&hotelName=&searchHotelName=&searchLayer=&searchRoomName=&hotelSearchDetail=true&checkPointStr=32&displayType=data-hotel&reservationStatus=0)や[グランドシャトーのみに絞ったURL](https://reserve.tokyodisneyresort.jp/hotel/list/?showWay=&roomsNum=1&adultNum=2&childNum=0&stayingDays=1&keyword=VIP&useDate=20240609&cpListStr=&childAgeBedInform=&searchHotelCD=FSH&searchHotelDiv=&hotelName=&searchHotelName=&searchLayer=&searchRoomName=&hotelSearchDetail=true&checkPointStr=32&displayType=data-hotel&reservationStatus=0)を利用してもらっても良いかと思います。
 日付は06/09としてありますので、『usedate=20240609』の部分を適宜対象の日程に書き換えてご利用ください。
 
 このパターンは日程固定で複数部屋を一気に検索するので、レアリティが高い部屋が埋まっていても即座に枠が多い別の部屋の空きを確保しにいけるというメリットがあります。
