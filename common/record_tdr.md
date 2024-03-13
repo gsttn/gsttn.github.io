@@ -262,9 +262,9 @@ MFTは本体もそこそこ高価で、サードパーティから選べない�
 ### その他の候補機種：レンズ
 
 * [CANON　RF-S18-150mm F3.5-6.3 IS STM](https://hb.afl.rakuten.co.jp/hgc/0b1fd35c.83ffcb82.0b1fd35d.679b244d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRF-S18-150mm%2BF3.5-6.3%2BIS%2BSTM%2F%3Fran%3D10010004549292195798%26s%3D11%26used%3D0&link_type=text&ut=eyJwYWdlIjoidXJsIiwidHlwZSI6InRleHQiLCJjb2wiOjF9)
-    * キヤノンEFマウント、APS-C、とにかくバリエーションが少ないので換算27-225mmの便利な高倍率ズームだけで良さそうか
+    * キヤノンRFマウント、APS-C、とにかくバリエーションが少ないので換算27-225mmの便利な高倍率ズームだけで良さそうか
 * [CANON　RF24-240mm F4-6.3 IS USM](https://hb.afl.rakuten.co.jp/hgc/0b1fd35c.83ffcb82.0b1fd35d.679b244d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRF24-240mm%2BF4-6.3%2BIS%2BUSM%2F%3Fran%3D10010004549292151411%26s%3D11%26used%3D0&link_type=text&ut=eyJwYWdlIjoidXJsIiwidHlwZSI6InRleHQiLCJjb2wiOjF9)
-    * キヤノンEFマウント、フルサイズ、とにかくバリエーションが少ないので換算36-360mmの便利な高倍率ズームだけで良さそうか
+    * キヤノンRFマウント、フルサイズ、とにかくバリエーションが少ないので換算36-360mmの便利な高倍率ズームだけで良さそうか
     * F2.8やF4のレンズにしようとすると価格が跳ね上がる、サードパーティから色々と出てくれば様子は変わるのかも知れないが、現状では割高感が強い
 * [TAMRON　70-180mm F/2.8 Di III VC VXD G2 (Model A065)](https://hb.afl.rakuten.co.jp/hgc/0b1fd35c.83ffcb82.0b1fd35d.679b244d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTAMRON%25E3%2580%258070-180mm%2BF%252F2.8%2BDi%2BIII%2BVC%2BVXD%2BG2%2B%28Model%2BA065%29%2F%3Fran%3D10010004960371006871%26s%3D11%26used%3D0&link_type=text&ut=eyJwYWdlIjoidXJsIiwidHlwZSI6InRleHQiLCJjb2wiOjF9)
     * Eマウント、フルサイズ、手ブレ補正あり、サードパーティでF2.8にしては比較的安価か、望遠側が180mmまでではあるがハーバーショー向け候補、855g
