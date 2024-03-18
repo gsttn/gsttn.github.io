@@ -55,35 +55,16 @@ TDRの希少価値が高く予約確保が困難なホテル宿泊とレスト�
 
 ## 最近の界隈の様子/中の人コメント
 
-* ということで、ちょっとしたパズル気分で作ったスプホ予約用の面白URL色々です、日付は07/06としてありますので、『usedate=20240706』の部分を適宜対象の日程に書き換えてご利用ください。
-    * [スプホのみに絞ったURL](https://reserve.tokyodisneyresort.jp/hotel/list/?showWay=&roomsNum=1&adultNum=2&childNum=0&stayingDays=1&keyword=%E3%82%B7%E3%83%A3%E3%83%88%E3%83%BC&useDate=20240706&cpListStr=&childAgeBedInform=&searchHotelCD=FSH&searchHotelDiv=&hotelName=&searchHotelName=&searchLayer=&searchRoomName=&hotelSearchDetail=true&checkPointStr=32&displayType=data-hotel&reservationStatus=0)
-    * [ファンタジーシャトーのパークが見える部屋のみに絞ったURL](https://reserve.tokyodisneyresort.jp/hotel/list/?showWay=&roomsNum=1&adultNum=2&childNum=0&stayingDays=1&keyword=%E8%A6%8B%E3%81%88%E3%82%8B%E5%AE%A2%E5%AE%A4&useDate=20240706&cpListStr=&childAgeBedInform=&searchHotelCD=FSH&searchHotelDiv=&hotelName=&searchHotelName=&searchLayer=&searchRoomName=&hotelSearchDetail=true&checkPointStr=32&displayType=data-hotel&reservationStatus=0)
-    * [スプリングスサイドのみに絞ったURL](https://reserve.tokyodisneyresort.jp/hotel/list/?showWay=&roomsNum=1&adultNum=2&childNum=0&stayingDays=1&keyword=%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%B5%E3%82%A4%E3%83%89&useDate=20240706&cpListStr=&childAgeBedInform=&searchHotelCD=FSH&searchHotelDiv=&hotelName=&searchHotelName=&searchLayer=&searchRoomName=&hotelSearchDetail=true&checkPointStr=32&displayType=data-hotel&reservationStatus=0)
-    * [スプリングスサイドのパークグランドビューのみに絞ったURL](https://reserve.tokyodisneyresort.jp/hotel/list/?showWay=&roomsNum=1&adultNum=2&childNum=0&stayingDays=1&keyword=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%83%93%E3%83%A5%E3%83%BC&useDate=20240706&cpListStr=&childAgeBedInform=&searchHotelCD=FSH&searchHotelDiv=&hotelName=&searchHotelName=&searchLayer=&searchRoomName=&hotelSearchDetail=true&checkPointStr=32&displayType=data-hotel&reservationStatus=0)
-    * [スプリングスサイドのバルコニーのみに絞ったURL](https://reserve.tokyodisneyresort.jp/hotel/list/?showWay=&roomsNum=1&adultNum=2&childNum=0&stayingDays=1&keyword=%E3%83%87%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%90%E3%83%AB%E3%82%B3%E3%83%8B%E3%83%BC&useDate=20240706&cpListStr=&childAgeBedInform=&searchHotelCD=FSH&searchHotelDiv=&hotelName=&searchHotelName=&searchLayer=&searchRoomName=&hotelSearchDetail=true&checkPointStr=32&displayType=data-hotel&reservationStatus=0)
-    * [グランドシャトーのみに絞ったURL](https://reserve.tokyodisneyresort.jp/hotel/list/?showWay=&roomsNum=1&adultNum=2&childNum=0&stayingDays=1&keyword=VIP&useDate=20240706&cpListStr=&childAgeBedInform=&searchHotelCD=FSH&searchHotelDiv=&hotelName=&searchHotelName=&searchLayer=&searchRoomName=&hotelSearchDetail=true&checkPointStr=32&displayType=data-hotel&reservationStatus=0)
-    * [グランドシャトーのテラスのみに絞ったURL](https://reserve.tokyodisneyresort.jp/hotel/list/?showWay=&roomsNum=1&adultNum=2&childNum=0&stayingDays=1&keyword=%E3%83%86%E3%83%A9%E3%82%B9&useDate=20240706&cpListStr=&childAgeBedInform=&searchHotelCD=FSH&searchHotelDiv=&hotelName=&searchHotelName=&searchLayer=&searchRoomName=&hotelSearchDetail=true&checkPointStr=32&displayType=data-hotel&reservationStatus=0)
-    * [グランドシャトーのテラス（グランド除く）のみに絞ったURL](https://reserve.tokyodisneyresort.jp/hotel/list/?showWay=&roomsNum=1&adultNum=2&childNum=0&stayingDays=1&keyword=%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%B7%E3%83%A3%E3%83%88%E3%83%BC%20%E3%83%86%E3%83%A9%E3%82%B9&useDate=20240706&cpListStr=&childAgeBedInform=&searchHotelCD=FSH&searchHotelDiv=&hotelName=&searchHotelName=&searchLayer=&searchRoomName=&hotelSearchDetail=true&checkPointStr=32&displayType=data-hotel&reservationStatus=0)
-    * [グランドシャトーのグランドルームのみに絞ったURL](https://reserve.tokyodisneyresort.jp/hotel/list/?showWay=&roomsNum=1&adultNum=2&childNum=0&stayingDays=1&keyword=%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%B7%E3%83%A3%E3%83%88%E3%83%BC%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89&useDate=20240706&cpListStr=&childAgeBedInform=&searchHotelCD=FSH&searchHotelDiv=&hotelName=&searchHotelName=&searchLayer=&searchRoomName=&hotelSearchDetail=true&checkPointStr=32&displayType=data-hotel&reservationStatus=0)
-    * あまり調査していない雑な推測ですが、ホテルの説明文と部屋の説明文もキーワード検索しているっぽいので、単純に『ファンタジーシャトー』とか『グランドシャトー』で検索させるとホテル説明にヒットして全部屋がマッチする、みたいな挙動に見えなくもないですが確証はないです
-* 今更ながら、[ハッピーエントリーのランド対象外にしている日程](https://www.tokyodisneyresort.jp/hotel/topics/info/happy_entry.html)って、パルパルドナ関連の混雑対策のつもりでしょうかね？06/09はドナ誕の日曜日、06/29と30はラス日の日曜とその前日、という辺りで…
 * 何となく燃え尽き症候群で11時開放は完全スルーしていますが、おなじみの1時間以上という派手な待合室が展開されたりとかはない感じなのでしょうかね
     * と言うか、本質的に中の人が予約サイトとの闘いを始めた理由は『新ホテル（ファンタジースプリングスホテル）開業時に狙った枠を狙った日程で確実に予約出来るようになっておく』ことだったので、狙った予約の確保に成功した時点で目的は達成されているのですよね（苦笑
-
+* X（Twitter）界隈のグラン棟に関する噂を見ると、宿泊価格だけ上げてサービスの質を落とすことで誰も予約したくない枠を作っているということなのでしょうかね？
+    * それなら確かに予約は簡単に取れるようになりますが…誰も泊まりたくない訳ですからね
+    * 逆にグラン棟の『事前に旅の目的を伺い、キャストが東京ディズニーリゾートでの過ごし方をご提案』で何が出来るのか聞きたいところですね、隠れミッキーの場所でも教れば宿泊者が喜ぶとでも公式は思っているのでしょうかね？（苦笑
 
 ## マシュマロにお返事
 
 マシュマロを頂けたようで、ありがたいことですね。不定期に古い書き込みは消していきますが、悪しからずご了承ください。
 
-* 香港ディズニーですか、ステキですね、中の人は諸々の事情で海外に行くことはないですが、海外ディズニーも楽しそうですよね
-    * あと、何気にクルーズも気になるので、舞浜からどこか別の国内の港までの往復便で良いので日本でもやってくれませんかね、むしろ東京湾内一周で千葉の先端／三浦半島の先端／横浜港に停泊とかでも良いので…
-* 確かに、スプホ一括開放の最終日は**木曜日ではなく水曜日**の2024/03/06 13:00開幕ですから、要注意かも知れませんね
-    * これ以降（2024/03/07以降）は朝11時の4ヶ月前開放に合流ですね、一括開放とは異なるノウハウも必要になってくるのでこちらも要注意ですし、毎朝11時前に重めの待合室になると他のレア部屋狙いの方にも無視できない影響が出てきそうです
-    * つまり**11時ノウハウ＋待合室対策ノウハウ－トラベルバッグのアレ知識**、ということですね（トラベルバッグのアレは通常の11時開放では使えない）
-    * さておき、中の人は日程を間違えるパターンは概ね『**え！？今日って03/06だっけ！？03/05かと思っていた！**』と、予定ではなく実際の今日の日付を勘違いするケースが大半ですね（苦笑
-* 情報ありがとうごさいます、バケパの新エリアレストランはまだいくらか余裕ありげなのですね
-    * そして残り具合≒人気度としてアレンデール→アヒルちゃん→ルックアウトも多くの方の予想通り（？）でしょうか、
-* 情報ありがとうごさいます、中の人の観測でも12:03よりは前なので、確かに12:02の前後30秒辺りという雰囲気がちょうど良さそうでしたかね
 * 最近は全く見ていないのですが、以前どこかに書いたスプホのレア部屋候補としてはファン棟ならバルコニーがあるスプリングスサイド部屋、グラン棟はテラス系とゆくゆくはアルコーヴ8-9も比較的安価でグランド部屋の隣に泊まれるので良さそうと考えていましたね
     * グランドテラスとグランドルームが40万オーバーでも埋まり続けるのかは若干疑問ですね、ホテル前で常設のショーとかパレードでもやってくれたり、他の部屋より明確な優遇措置があるなら可能性はありそうですが…
     * あと特にグランドテラス8階なのですがテラス内のプライバシーがどの程度まで保たれるか疑問なのですよね、最高価格の部屋なのに9階から見下される位置になりそうなのでミラコのテラスとそこが違う点かな、とも…
