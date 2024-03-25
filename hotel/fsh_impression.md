@@ -75,7 +75,8 @@
     * 予想に反して予約はラリベの1種のみ、グリーティング部屋への入室可否はメニューで調整ということなのでしょうか、とは言えグリーティングはミッキー固定のようなので人によっては落胆ポイントかも知れませんね
     * 明確に予約枠を分けていないので、個室への案内の扱いという辺りも若干気になるところですね、ファミリーを隔離する作戦か、グランドルーム優先なのか、という感じでしょうかね？
 
-ちなみに[ルームサービス](https://faq.tokyodisneyresort.jp/tdr/faq_detail.html?id=24631)と[バルコニー/テラスでの食事](https://faq.tokyodisneyresort.jp/tdr/faq_detail.html?id=24619)は現時点では未定となっていますね。
+ちなみに[ルームサービスはグランドシャトーのみ](https://faq.tokyodisneyresort.jp/tdr/faq_detail.html?id=24631)と公式発表が出てしまいましたね。
+それでもまだ[バルコニー/テラスでの食事](https://faq.tokyodisneyresort.jp/tdr/faq_detail.html?id=24619)は現時点では未定となっていますが。
 
 ### 時間制限
 

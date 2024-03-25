@@ -336,7 +336,7 @@ iPhoneの26mmだと全景過ぎますし、50mm辺りでもまだ広角すぎる
 * [Panasonic LEICA DG VARIO-ELMARIT 12-35mm / F2.8 ASPH. / POWER O.I.S.](https://hb.afl.rakuten.co.jp/hgc/0b1fd35c.83ffcb82.0b1fd35d.679b244d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLEICA%2BDG%2BVARIO-ELMARIT%2B12-35mm%2F%3Fran%3D10010004549980689950%26s%3D11%26used%3D0&link_type=text&ut=eyJwYWdlIjoidXJsIiwidHlwZSI6InRleHQiLCJjb2wiOjF9)
     * MFT、手ブレ補正あり、F2.8で換算24-70mmなのでハーバーショーは厳しいか、約306g
 * [Panasonic LEICA DG VARIO-ELMARIT 35-100mm / F2.8 / POWER O.I.S.](https://hb.afl.rakuten.co.jp/hgc/0b1fd35c.83ffcb82.0b1fd35d.679b244d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLEICA%2BDG%2BVARIO-ELMARIT%2B35-100mm%2F%3Fran%3D10010004549980729816%26s%3D11%26used%3D0&link_type=text&ut=eyJwYWdlIjoidXJsIiwidHlwZSI6InRleHQiLCJjb2wiOjF9)
-    * MFT、手ブレ補正あり、F2.8で換算70-200mmなので概ねハーバーショーもカバー可能化、約360g
+    * MFT、手ブレ補正あり、F2.8で換算70-200mmなので概ねハーバーショーもカバー可能か、約360g
 
 
 ### その他の候補機種：レンズ
