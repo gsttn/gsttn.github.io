@@ -119,9 +119,6 @@ TDRの希少価値が高く予約確保が困難なホテル宿泊とレスト�
 | [ハイピ：プレミ：パルパルドナ](https://www.tokyodisneyresort.jp/hotel/food/1000002605/) | 2024/04/08～2024/06/09 | キャンセル拾い | スペドリ：コースター付き |
 | [ハイピ：プレミ：アンバ](https://www.tokyodisneyresort.jp/hotel/food/1000002450/) | 2024/01/19～2024/04/07 | キャンセル拾い | |
 | [ドリマ：パルパルドナ前半](https://www.tokyodisneyresort.jp/hotel/food/1000002644/) | 2024/04/01～2024/05/15 | キャンセル拾い | 2024/02/28一斉開放 |
-| [ドリマ：アフヌン：40周年フィナーレ](https://www.tokyodisneyresort.jp/hotel/food/1000002505/) | 2024/02/01～2024/03/31 | キャンセル拾い |  |
-| [ドリマ：パスタ：40周年フィナーレ](https://www.tokyodisneyresort.jp/hotel/food/1000002506/) | 2024/02/01～2024/03/31 | キャンセル拾い |  |
-| [シルク：ダフヌン：ストロベリー](https://www.tokyodisneyresort.jp/hotel/food/1000002541/) | 2024/01/15～2024/03/31 | キャンセル拾い |  |
 | [エンパ：ツイステッドワンダーランドコラボ](https://www.tokyodisneyresort.jp/hotel/memory/dah/twst-empire/) | モチーフの寮毎に1週間ずつ | モチーフの寮毎に異なる | 詳細は[ローソンチケット参照](https://l-tike.com/event/mevent/?mid=711027) |
 
 ### 宿泊系
@@ -129,13 +126,11 @@ TDRの希少価値が高く予約確保が困難なホテル宿泊とレスト�
 | 対象 | 販売期間 | 予約開放期間 | 備考 |
 | ------------- | ------------- | ------------- | ------------- |
 | ファンタジースプリングスホテル | 2024/06/06～2024/06/08 | [2024/04/18 13:00再開放](https://www.tokyodisneyresort.jp/hotel/topics/info/operation/fsh_reservation.html) | 2024/02/08一括開放、 2024/04/18再開放 |
-| [アンバ：パルパルドナ](https://www.tokyodisneyresort.jp/hotel/memory/dah/quacky/) | 2024/04/09～2024/06/30 | 2024/02/13～2024/03/30 | 2024/02/13 13:00 一括開放 |
+| [アンバ：パルパルドナ](https://www.tokyodisneyresort.jp/hotel/memory/dah/quacky/) | 2024/04/09～2024/06/30 | キャンセル拾い | 2024/02/13 13:00 一括開放 |
 | ファンタジースプリングスホテル | 2024/06/30～2024/07/06 | キャンセル拾い | 2024/03/06一括開放 |
 | ファンタジースプリングスホテル | 2024/06/23～2024/06/29 | キャンセル拾い | 2024/02/29一括開放 |
 | ファンタジースプリングスホテル | 2024/06/16～2024/06/22 | キャンセル拾い | 2024/02/22一括開放 |
 | ファンタジースプリングスホテル | 2024/06/09～2024/06/15 | キャンセル拾い | 2024/02/15一括開放  |
-| [ランホ：40周年グランドフィナーレ](https://www.tokyodisneyresort.jp/hotel/tdh/topics/tdr40th_room_finale.html) | 2024/01/23～2024/03/31 | キャンセル拾い |  |
-| [セレブレ：40周年グランドフィナーレ](https://www.tokyodisneyresort.jp/hotel/dch/topics/tdr40th_room.html) | 2024/01/23～2024/03/31 | キャンセル拾い |  |
 | [アンバ：パルパルミニー](https://www.tokyodisneyresort.jp/hotel/memory/dah/funderland/) | 2024/01/19～2024/04/07 | キャンセル拾い |  |
 | [スプホ：プレビューバケパ](https://reserve.tokyodisneyresort.jp/vp/detail/PAI1FSPSALL75/) | 2024/05/27～2024/05/31 | キャンセル拾い | 2023/12/19一括開放 |
 | [スプホ：バケパ](https://reserve.tokyodisneyresort.jp/news/detail/2490/) | 2024/08/01～2024/08/31 | キャンセル拾い | 2024/03/05一括開放 |
