@@ -116,6 +116,7 @@
 #### 読み込み処理のイメージポスト
 
 ※Xアカウント閉鎖につき、現在はポスト内容を参照することが出来ません、悪しからずご了承ください
+
 ※結論、同じタイミングで押しても必ずしも同じタイミング、正しく押した順番で処理されるとは限りません、という内容です
 
 #### 分散処理の例え話ポスト
@@ -346,6 +347,18 @@
     * タレットルーム： [PC版](https://reserve.tokyodisneyresort.jp/hotel/list/?useDate=20230722&stayingDays=1&adultNum=2&childNum=0&roomsNum=1&checkPointStr=&searchHotelName=&searchLayer=&keyword=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%BB%E3%82%BF%E3%83%AC%E3%83%83%E3%83%88%E3%83%AB%E3%83%BC%E3%83%A0&hotelChangeFlg=false&hotelShowFlg=0&childAgeBedInform=&receiptNO=&searchHotelDiv=&searchHotelCD=TDH&removeSessionFlg=true&errorBeforeUrl=&displayType=data-hotel_change&reservationStatus=0&hotelRoomCd=HOTDHRWU0002N#tabCont1) ／ [スマホ版](https://reserve.tokyodisneyresort.jp/sp/hotel/list/?useDate=20230722&stayingDays=1&adultNum=2&childNum=0&roomsNum=1&checkPointStr=&searchHotelName=&searchLayer=&keyword=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%BB%E3%82%BF%E3%83%AC%E3%83%83%E3%83%88%E3%83%AB%E3%83%BC%E3%83%A0&hotelChangeFlg=false&hotelShowFlg=0&childAgeBedInform=&receiptNO=&searchHotelDiv=&searchHotelCD=TDH&removeSessionFlg=true&errorBeforeUrl=&displayType=data-hotel_change&reservationStatus=0#tabCont1)
     * バルコニー： [PC版](https://reserve.tokyodisneyresort.jp/hotel/list/?useDate=20230722&stayingDays=1&adultNum=2&childNum=0&roomsNum=1&checkPointStr=&searchHotelName=&searchLayer=&keyword=%E3%83%90%E3%83%AB%E3%82%B3%E3%83%8B%E3%83%BC&hotelChangeFlg=false&hotelShowFlg=0&childAgeBedInform=&receiptNO=&searchHotelDiv=&searchHotelCD=TDH&removeSessionFlg=true&errorBeforeUrl=&displayType=data-hotel_change&reservationStatus=0) ／ [スマホ版](https://reserve.tokyodisneyresort.jp/sp/hotel/list/?useDate=20230722&stayingDays=1&adultNum=2&childNum=0&roomsNum=1&checkPointStr=&searchHotelName=&searchLayer=&keyword=%E3%83%90%E3%83%AB%E3%82%B3%E3%83%8B%E3%83%BC&hotelChangeFlg=false&hotelShowFlg=0&childAgeBedInform=&receiptNO=&searchHotelDiv=&searchHotelCD=TDH&removeSessionFlg=true&errorBeforeUrl=&displayType=data-hotel_change&reservationStatus=0)
         * 何故かディズニー･マジックキングダム･スイートも検索結果に含まれる
+* スプホ（日付は07/06としてあります）
+    * [スプホのみに絞ったURL](https://reserve.tokyodisneyresort.jp/hotel/list/?showWay=&roomsNum=1&adultNum=2&childNum=0&stayingDays=1&keyword=%E3%82%B7%E3%83%A3%E3%83%88%E3%83%BC&useDate=20240706&cpListStr=&childAgeBedInform=&searchHotelCD=FSH&searchHotelDiv=&hotelName=&searchHotelName=&searchLayer=&searchRoomName=&hotelSearchDetail=true&checkPointStr=32&displayType=data-hotel&reservationStatus=0)
+    * [ファンタジーシャトーのパークが見える部屋のみに絞ったURL](https://reserve.tokyodisneyresort.jp/hotel/list/?showWay=&roomsNum=1&adultNum=2&childNum=0&stayingDays=1&keyword=%E8%A6%8B%E3%81%88%E3%82%8B%E5%AE%A2%E5%AE%A4&useDate=20240706&cpListStr=&childAgeBedInform=&searchHotelCD=FSH&searchHotelDiv=&hotelName=&searchHotelName=&searchLayer=&searchRoomName=&hotelSearchDetail=true&checkPointStr=32&displayType=data-hotel&reservationStatus=0)
+    * [スプリングスサイドのみに絞ったURL](https://reserve.tokyodisneyresort.jp/hotel/list/?showWay=&roomsNum=1&adultNum=2&childNum=0&stayingDays=1&keyword=%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%B5%E3%82%A4%E3%83%89&useDate=20240706&cpListStr=&childAgeBedInform=&searchHotelCD=FSH&searchHotelDiv=&hotelName=&searchHotelName=&searchLayer=&searchRoomName=&hotelSearchDetail=true&checkPointStr=32&displayType=data-hotel&reservationStatus=0)
+    * [スプリングスサイドのパークグランドビューのみに絞ったURL](https://reserve.tokyodisneyresort.jp/hotel/list/?showWay=&roomsNum=1&adultNum=2&childNum=0&stayingDays=1&keyword=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%83%93%E3%83%A5%E3%83%BC&useDate=20240706&cpListStr=&childAgeBedInform=&searchHotelCD=FSH&searchHotelDiv=&hotelName=&searchHotelName=&searchLayer=&searchRoomName=&hotelSearchDetail=true&checkPointStr=32&displayType=data-hotel&reservationStatus=0)
+    * [スプリングスサイドのバルコニーのみに絞ったURL](https://reserve.tokyodisneyresort.jp/hotel/list/?showWay=&roomsNum=1&adultNum=2&childNum=0&stayingDays=1&keyword=%E3%83%87%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%90%E3%83%AB%E3%82%B3%E3%83%8B%E3%83%BC&useDate=20240706&cpListStr=&childAgeBedInform=&searchHotelCD=FSH&searchHotelDiv=&hotelName=&searchHotelName=&searchLayer=&searchRoomName=&hotelSearchDetail=true&checkPointStr=32&displayType=data-hotel&reservationStatus=0)
+    * [グランドシャトーのみに絞ったURL](https://reserve.tokyodisneyresort.jp/hotel/list/?showWay=&roomsNum=1&adultNum=2&childNum=0&stayingDays=1&keyword=VIP&useDate=20240706&cpListStr=&childAgeBedInform=&searchHotelCD=FSH&searchHotelDiv=&hotelName=&searchHotelName=&searchLayer=&searchRoomName=&hotelSearchDetail=true&checkPointStr=32&displayType=data-hotel&reservationStatus=0)
+    * [グランドシャトーのテラスのみに絞ったURL](https://reserve.tokyodisneyresort.jp/hotel/list/?showWay=&roomsNum=1&adultNum=2&childNum=0&stayingDays=1&keyword=%E3%83%86%E3%83%A9%E3%82%B9&useDate=20240706&cpListStr=&childAgeBedInform=&searchHotelCD=FSH&searchHotelDiv=&hotelName=&searchHotelName=&searchLayer=&searchRoomName=&hotelSearchDetail=true&checkPointStr=32&displayType=data-hotel&reservationStatus=0)
+    * [グランドシャトーのテラス（グランド除く）のみに絞ったURL](https://reserve.tokyodisneyresort.jp/hotel/list/?showWay=&roomsNum=1&adultNum=2&childNum=0&stayingDays=1&keyword=%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%B7%E3%83%A3%E3%83%88%E3%83%BC%20%E3%83%86%E3%83%A9%E3%82%B9&useDate=20240706&cpListStr=&childAgeBedInform=&searchHotelCD=FSH&searchHotelDiv=&hotelName=&searchHotelName=&searchLayer=&searchRoomName=&hotelSearchDetail=true&checkPointStr=32&displayType=data-hotel&reservationStatus=0)
+    * [グランドシャトーのグランドルームのみに絞ったURL](https://reserve.tokyodisneyresort.jp/hotel/list/?showWay=&roomsNum=1&adultNum=2&childNum=0&stayingDays=1&keyword=%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%B7%E3%83%A3%E3%83%88%E3%83%BC%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89&useDate=20240706&cpListStr=&childAgeBedInform=&searchHotelCD=FSH&searchHotelDiv=&hotelName=&searchHotelName=&searchLayer=&searchRoomName=&hotelSearchDetail=true&checkPointStr=32&displayType=data-hotel&reservationStatus=0)
+
+あまり調査していない雑な推測ですが、ホテルの説明文と部屋の説明文もキーワード検索しているっぽいので、単純に『ファンタジーシャトー』とか『グランドシャトー』で検索させるとホテル説明にヒットして全部屋がマッチする、みたいな挙動に見えなくもないですが確証はないです。
 
 
 ### 道徳対決：人間 vs AI
@@ -403,11 +416,48 @@ AIは無欲だからこんなことを言えるのでしょう…かね…？
 中の人がこのような表現で発信したときは、**一般人には絶対に空きを見ることすら不可能なレベル**くらいの早さで予約が埋まったケースです。
 
 
+## ファンタジースプリングス
+
 ### ファンタジースプリングスホテルを上から見ると…
 
 Fantasyの『F』のカタチをしている…かも…。
 
 ※Xアカウント閉鎖につき、現在はポスト内容を参照することが出来ません、悪しからずご了承ください
-※とは言え、地図サイトで航空写真を見ると、何となく判るかと思われます
+
+※とは言え、地図サイトでファンタジースプリングスホテルのファンタジーシャトー側の航空写真を見ると、何となく判るかと思われます
+
+
+### ファンタジースプリングス テーマ曲の歌詞
+
+* 英語のニュアンスに詳しくはないですが、**Look inside. What story will you find?**という歌詞が、『（ファンタジースプリングスに入れない人々に対して）中を覗き込んでみて、どんな物語を見つけられるかしら？（ただし体験出来ない）』みたいに見えてくる病…（苦笑
+* ということは、最後の方にある**Come inside. What story will you write?**はスタンバイパス、DPA、宿泊予約、バケパ等を確保出来て新エリアに入れる人に『さぁ、中に来て、（ファンタジースプリングスエリアで）あなたはどんな物語を描くのかしら？』と語りかけているように思えますよね
+* 続けざまに**What dream will change your life?**と来る訳で、それが新エリアに入れる人の人生を変える夢のような体験であるかのように歌い上げるのですから、新エリアに入れる人が待ち時間と混雑で人生を考え直したくなるようなエリアになって欲しくはないところですね（苦笑
+* 逆に入れない人には最初の方で、**Your heart is leaping, your mind is racing to a wondrous spring(略**とかは、気持ちは新エリアに猛ダッシュしていることを暗示しつつ『リアルにダッシュしちゃダメですよ』というメッセージと、さらに行間には『（条件を満たさないと）どうせ入れませんから』というルールが隠れている訳ですね（違
+* などと考えながら、**ここまでは入れない人がターゲットの歌詞、ここからは入れる人がターゲットの歌詞**として見ると、同じ歌詞（**A fairytale beginning、Your dream is taking flight、With magic and friends for all time**辺り）でも全く異なるイメージになりますね
+* 総じて、かなり厳しい現実を見据えたシビアな歌詞の曲だなぁ、と…（多分違う
+
+ちなみにApple Musicで見ると1曲3分33秒、インスト版と2曲のアルバム設定なので2曲で6分66秒（？）ということで、開業日の令和6年6月6日が隠されているのですね…。
+
+### 1日目チケット付きファンタジースプリングス入場保証ワンバケの注意事項
+
+割安でお得感が強いファンタジースプリングス入場保証付きで1日分のみのワンバケですが、マジックチケットが設定されているのは1日目、つまりミラコやスプホに宿泊してもハッピーエントリーが使えない点に注意が必要です。
+
+
+### スプホでもファン棟はルームサービスなし
+
+* ランホ：ファン棟よ、ルームサービスがないというのはまことか？
+* ファン棟：待っていただきたい、我々、デラックス四天王でも既にアンバ様という前例が…
+* ミラコ：黙りたまえ、アンバだと？奴は我ら四天王でも最弱…
+* アンバ：お待ち下さい、ミラコ様！このアンバ、確かにルームサービスは使えませぬが、モバイルオーダーによるテイクアウトという新たなスキルを習得してございます！
+* ランホ：ふむ…であれば、我ら四天王の序列も考え直さねばならぬか…
+* アンバ：その通りでございます、ランホ様
+* ファン棟：し、しかし、我が兄たるグラン棟と共有設備も多く、グランパラディの完成度たるや…
+* ミラコ：しかし、部屋で最上級の食事も取れぬとは、我らデラックス四天王の面汚しめ…
+* グラン棟：まあ、そう我が弟をいじめてくれるなミラコよ、まだ未来のあるファン棟を長い目で見守って欲しいものだな
+* ランホ：こ、これはグラン棟様…
+* ミラコ：もちろん我ら四天王、生まれたときは違えども廃業するその日まで全力を尽くす所存…
+
+などという妄想をしました。
+
 
 
