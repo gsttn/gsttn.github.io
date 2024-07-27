@@ -64,46 +64,14 @@ TDRの希少価値が高く予約確保が困難なホテル宿泊とレスト�
 
 ## 最近の界隈の様子/中の人コメント
 
-* ということで、日程は伏せますが行ってきました、グランドシャトー
-    * 何がスゴイかと言うと全てがスゴイですね、価格からして当然ながらミラコやランホに劣っている点はほぼないです
-        * ただし、ミラコやランホの方が**好きな点**はたくさんあると思います、好き嫌いはあって当然ですが、優劣で言うなら劣っている点はほぼなかったです
-        * 強いて言うなら、バルコニー＆テラスでの飲食禁止くらいでしょうか
-    * 事前アンケートからの調整は返信が遅いという話はありましたが、100%ではなくともほぼ期待通りに調整してもらえました
-        * まず**レストラン予約**に関して、ラリベとFSレストランは通りやすく、グランパラディは困難っぽい様子ですが、どれも取ってもらえるケースはあるようですね
-        * 感覚的に予約だけは確保しておいて時間枠の変更やプラン変更（グランパラディの席確保→デザートメニュー変更）の方が通る可能性は高いのかも知れません
-        * レストラン変更（FSレストラン→グランパラディ変更）は予約なし確保と同じ扱いレベルと推測します
-        * つまり、**日程や時間帯が合わなくてもラリベは確保してアンケートで変更**、**席のみでもパラディは確保してアンケートでデザートプランに変更**という方がグランドシャトーラウンジ（GCラウンジ）で対応してもらえる可能性は高いかも知れません
-        * ただ、この辺は頼めば確約レベルのサービスではないので、『確保出来ません』となるケースも少なくないように思います
-        * 無駄に掴むべきではないので、**どうしても体験したいので変更出来ないなら予約したままのプランで予定を立てる**というレベル感で確保＆変更依頼すべきですね
-        * 他には**部屋位置のリクエスト**は通りましたし、**ショー関連の指定**も概ねX（Twitter）界隈での噂通りでしたか
-    * ウワサの専用ラウンジ、ドレス展示、エレベーター直結ゲートウェイ、絵画だらけの廊下、部屋の内装や設備、いずれも豪華でハードウェア面では隙なく作り込まれているな、という印象ですね
-        * もちろん、**豪華な彫刻っぽく描かれた壁紙**とかもあるので、ディズニーの魔法でそれっぽく楽しませている部分もありますが、そこは素直に魔法にかかりましょう（微笑
-    * 一時期、X（Twitter）でプチ炎上していた**シャワーの水圧**も特に気になりませんでしたし、**ミニバー**も2名宿泊だったので普通に過剰な本数が入っていたという感じですね
-        * ビール党ではないので、カクテル系くらいは飲み切るかと思いましたが、普通にパークに入ってラリベに行ってとしていたら、時間的にも内臓キャパシティ的にも手が出ませんね（苦笑
-    * キャストさんからは割と名前で呼ばれがちで、何か聞いたり調整をお願いすると、とにかくエスコートして連れて行ってくれるのが印象的でしたね
-        * お部屋ご案内くらいはX（Twitter）界隈の話と公式の『お部屋でチェックイン』で、そういうものだろうと思っていたのですが…
-        * 何かの話の流れで、この後はFSレストランを予約していて向かうところ、と言ったら、GCラウンジからFSレストランまでご案内してくれましたね
-        * これ、場所は判っているし自分で行けるから意味がないという人も居るかも知れませんが、**GCラウンジから出て**、ファンタジーシャトー側のゲストが居る中をグランドシャトー制服のキャストにエスコートされる、というちょっとしたVIP体験が出来るのですよね
-        * 実際はたまたまGCラウンジが閑散としている時間帯でキャストさんの手が空いていただけかも知れませんし、確約サービスということもないかも知れませんが、とにかくGCラウンジ外でもエスコートしてくれますね
-    * ラリベも概ね予想通りで十分満足の行く体験が出来ました
-        * グリーティングは同行者に丸投げで撮影要員でしたが、なかなかの**精鋭**を揃えているのか、時間的にも内容的にも満足感の高いひとときだったようです
-        * ドレスコードは…そうですね、ゲスト側のことなので如何ともですが、どこかの営業さんみたいなスーツのグループを見かけたような…もっと肩の力を抜きましょうよ…（苦笑
-    * あとはパラディですかね、はっきり言ってしまうとスプホに入った瞬間に目にする象徴的な施設でもあるので、ここを体験出来るか否かで満足感が大きく変わってくる、という人も居ると思います
-        * 予約は頑張ってください…ですが、アンケートで泣きついて取れるケースもあるようです…ただし、ムリと言われる可能性の方が高い施設のようですが…
-        * 中の人は自前で確保していて少し調整だけしてもらった感じですが、最悪はパラディに並ぶというアレな作戦もあるようですね
-        * ちなみにパラディにエスコートして連れて行ってもらえたりもしましたよ、アレな作戦で並んでいる人の前をエスコートしてくれたグランドシャトー制服のキャストさんが『ホニャララ様です』とパラディの人に伝えて入店する、ちょっと背後からの視線が…（苦笑
-    * なので、中の人が思うグラン棟ステイの体験価値を向上させるコツとしては、**キャストさんとコミュニケーションを取る**こと、ですね
-        * 何ならオンラインチェックインとテレビでチェックアウト等を駆使すれば、パーク用書類（宿泊証明書、ハピエン券、ショー券、アトラク券）をもらうくらいしか顔を合わせることがない、なんてこともあるかも知れません
-        * はい、もったいないです、もしかしたらグランドシャトーのキャストさんには迷惑かも知れませんが、はっきり言います、**グランドシャトーの価値の源泉はキャストさんです**
-        * 例えばチェックイン時の他愛もない世間話から、意外なほど拾ってくれたりすることがあります、そこから始まるちょっとした体験に『一人ひとりに寄り添ったきめ細やかなおもてなし』を感じましたね
-    * というか、グランドシャトー攻略作戦でひとつページでも作ってみても良いかも知れませんね、部屋数も少なくて需要はほとんどなさそうですが…（苦笑
-        * そして作りました、[グランドシャトー宿泊対策](./hotel/fsh_grand_chateau_guide.md)
-* グランドシャトーの悪評祭りはまだ盛り上がっているのですね
-    * 実際、ハズレの体験をした人が居るのは事実なのだろうとは思うので、そういった方にはお気の毒に、としか言いようはないのですが…
-    * ただ、特にTEL対応に関しては本当にグランドシャトーに繋がったのか、単にオペレーターやファン棟の人と話をしただけなのか、という点も気になります
-    * また、レストラン手配の可否や現地での対応に関して差があるのは、もしかして部屋のグレードによって差をつけられているのかとも思えますが、どうなんでしょうかね
-        * グランドシャトーという括りの中で差をつけるのは不愉快という考え方もあるかも知れませんが、例えばミラコのスペチでも特に明言することなくスイートは格上でイルマニはさらに別格という扱いと感じますし
 * ぼちぼちと[グランドシャトー宿泊対策](./hotel/fsh_grand_chateau_guide.md)のページも検索から流入があるようですね、X（Twitter）をヤメてしまったので宣伝していない割に頑張っている感があります（苦笑
+* ということで、読みましたよ、Dホテルヲタのバイブル（？）、グラン棟滞在中にスプホ内で何度かお見かけしたベスフォード社長の著書『ホテルの力』
+    * 内容はホテル業界で働く人や接客業の方に向けた話がメインという感じですが、TDR関連の話や価値観の辺りはゲストとして読んでも楽しめなくはない…という程度でしょうか
+    * 具体的にグランドシャトーの目指すところは書いていないですが、ラグジュアリーに対する解釈もそれなりにあったりするので、グラン棟の宿泊者や計画している人が読むと思うところはあるかも知れませんね
+    * ただ、開業後3ヶ月は…という話はSNS界隈におけるグラン棟の現状を見ると何とも言えない心持ちになりますが…（苦笑
+    * あ、↓はアフィリエイトリンクなので、嫌いな方は踏まずに自前で検索してみた方が良いかと思います
+
+<table border="0" cellpadding="0" cellspacing="0"><tr><td><div style="border:1px solid #95a5a6;border-radius:.75rem;background-color:#FFFFFF;width:504px;margin:0px;padding:5px;text-align:center;overflow:hidden;"><table><tr><td style="width:240px"><a href="https://hb.afl.rakuten.co.jp/ichiba/19a76e2d.f6765d7a.102273dd.7ee5e725/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17910348%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://hbb.afl.rakuten.co.jp/hgb/19a76e2d.f6765d7a.102273dd.7ee5e725/?me_id=1213310&item_id=21303302&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fbook%2Fcabinet%2F4178%2F9784065364178_1_2.jpg%3F_ex%3D240x240&s=240x240&t=picttext" border="0" style="margin:2px" alt="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]" title="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]"></a></td><td style="vertical-align:top;width:248px;display: block;"><p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px;word-wrap:break-word"><a href="https://hb.afl.rakuten.co.jp/ichiba/19a76e2d.f6765d7a.102273dd.7ee5e725/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17910348%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;">ホテルの力　チームが輝く魔法の経営 [ ミリアルリゾートホテルズ代表取締役社長 チャールズ・D・ベスフォード ]</a><br><span >価格：1,870円（税込、送料無料)</span> <span style="color:#BBB">(2024/7/27時点)</span></p><div style="margin:10px;"><a href="https://hb.afl.rakuten.co.jp/ichiba/19a76e2d.f6765d7a.102273dd.7ee5e725/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17910348%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://static.affiliate.rakuten.co.jp/makelink/rl.svg" style="float:left;max-height:27px;width:auto;margin-top:0" ></a><a href="https://hb.afl.rakuten.co.jp/ichiba/19a76e2d.f6765d7a.102273dd.7ee5e725/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17910348%2F%3Fscid%3Daf_pc_bbtn&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ==" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><div style="float:right;width:41%;height:27px;background-color:#bf0000;color:#fff!important;font-size:12px;font-weight:500;line-height:27px;margin-left:1px;padding: 0 12px;border-radius:16px;cursor:pointer;text-align:center;"> 楽天で購入 </div></a></div></td></tr></table></div><br><p style="color:#000000;font-size:12px;line-height:1.4em;margin:5px;word-wrap:break-word"></p></td></tr></table>
 
 [過去のコメント倉庫](./old_comments.md)
 
@@ -130,9 +98,11 @@ TDRの希少価値が高く予約確保が困難なホテル宿泊とレスト�
 
 | 対象 | 販売期間 | 予約開放期間 | 備考 |
 | ------------- | ------------- | ------------- | ------------- |
-| ハイピ：限定：未発表 | 2024/09/01～ | 2024/06/01～ | **現在の開放時予約対象** |
-| ハイピ：プレミ：未発表 | 2024/09/01～2024/11/07 | 2024/06/01～ | **現在の開放時予約対象** |
-| ドリマ：未発表 | 2024/09/01～ | 未発表 | アフヌンとパスタは休止 |
+| ハイピ：限定：ハロウィーン | 2024/09/01～2024/11/07 | 2024/06/01～2024/08/07 | **現在の開放時予約対象**、スペドリ：コースター付き |
+| ハイピ：プレミ：ハロウィーン | 2024/09/01～2024/11/07 | 2024/06/01～2024/08/07 | **現在の開放時予約対象**、スペドリ：コースター付き |
+| ハイピ：ライトディナー：ハロウィーン | 2024/10/24～2024/11/07 | 2024/08/01 13:00～2024/08/07 | 一部一括解放、チャーム付き |
+| ドリマ：ハロウィーン前半 | 2024/09/01～2024/09/30 | 2024/08/01 13:00 | 全期間一括解放、昼食＆夕食時間帯 |
+| ドリマ：ハロウィーン後半 | 2024/10/01～2024/11/07 | 2024/08/01 13:00～2024/08/07 | 一部一括解放、昼食＆夕食時間帯 |
 | [ハイピ：限定：SuiSuiSummer](https://www.tokyodisneyresort.jp/hotel/food/1000002822/) | 2024/07/01～2024/08/31 | キャンセル拾い | スペドリ：コースター付き |
 | [ハイピ：プレミ：スペマン](https://www.tokyodisneyresort.jp/hotel/food/1000002689/) | 2024/06/10～2024/07/31 | キャンセル拾い | 08/01～08/31はプレミ休止 |
 | [ドリマ：アフヌン：夏メニュー](https://www.tokyodisneyresort.jp/hotel/food/1000002860/) | 2024/07/01～2024/08/31 | キャンセル拾い |  |
