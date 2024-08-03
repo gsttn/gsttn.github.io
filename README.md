@@ -13,6 +13,7 @@ TDRの希少価値が高く予約確保が困難なホテル宿泊とレスト�
 ## 最近の更新
 
 * 2024-07-18　[グランドシャトー宿泊対策](./hotel/fsh_grand_chateau_guide.md)ページに情報を追加
+* 2024-08-03　[待合室](./common/queue.md)の情報を更新
 
 ----
 
@@ -73,18 +74,19 @@ TDRの希少価値が高く予約確保が困難なホテル宿泊とレスト�
 
 <table border="0" cellpadding="0" cellspacing="0"><tr><td><div style="border:1px solid #95a5a6;border-radius:.75rem;background-color:#FFFFFF;width:504px;margin:0px;padding:5px;text-align:center;overflow:hidden;"><table><tr><td style="width:240px"><a href="https://hb.afl.rakuten.co.jp/ichiba/19a76e2d.f6765d7a.102273dd.7ee5e725/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17910348%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://hbb.afl.rakuten.co.jp/hgb/19a76e2d.f6765d7a.102273dd.7ee5e725/?me_id=1213310&item_id=21303302&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fbook%2Fcabinet%2F4178%2F9784065364178_1_2.jpg%3F_ex%3D240x240&s=240x240&t=picttext" border="0" style="margin:2px" alt="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]" title="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]"></a></td><td style="vertical-align:top;width:248px;display: block;"><p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px;word-wrap:break-word"><a href="https://hb.afl.rakuten.co.jp/ichiba/19a76e2d.f6765d7a.102273dd.7ee5e725/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17910348%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;">ホテルの力　チームが輝く魔法の経営 [ ミリアルリゾートホテルズ代表取締役社長 チャールズ・D・ベスフォード ]</a><br><span >価格：1,870円（税込、送料無料)</span> <span style="color:#BBB">(2024/7/27時点)</span></p><div style="margin:10px;"><a href="https://hb.afl.rakuten.co.jp/ichiba/19a76e2d.f6765d7a.102273dd.7ee5e725/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17910348%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://static.affiliate.rakuten.co.jp/makelink/rl.svg" style="float:left;max-height:27px;width:auto;margin-top:0" ></a><a href="https://hb.afl.rakuten.co.jp/ichiba/19a76e2d.f6765d7a.102273dd.7ee5e725/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17910348%2F%3Fscid%3Daf_pc_bbtn&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ==" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><div style="float:right;width:41%;height:27px;background-color:#bf0000;color:#fff!important;font-size:12px;font-weight:500;line-height:27px;margin-left:1px;padding: 0 12px;border-radius:16px;cursor:pointer;text-align:center;"> 楽天で購入 </div></a></div></td></tr></table></div><br><p style="color:#000000;font-size:12px;line-height:1.4em;margin:5px;word-wrap:break-word"></p></td></tr></table>
 
+* 中の人が信頼している数少ない情報源である、X（Twitter）の某アカウントの書き込みを見かけたので、少し[待合室関連を眺めて更新というか追記](./common/queue.md)しました
+    * それにしても、さすがにトラベルバッグのルートが待合室素通りになるのはマズイ対応だと思いますね
+    * というか、そもそもトラベルバッグの中が待合室を無視可能という時点で、問題ありだったと思いますがね
+    * TDR界隈ではお約束の**知っている人だけが一方的に得をする**という話の一環に過ぎないとも言えますが、さすがに負荷対策としてレベルが低すぎではないでしょうかね
+    * ちなみにすすむダイアログによる入室タイミングの調整の方は10分のままでしょうかね、現状の挙動だとこの調整が重要とも思えませんが
+    * とは言え、一括解放のような高負荷のタイミングでも現在の挙動のままとも限らないので、油断なく複数の手段で備える方が無難な気はしますね
+
 [過去のコメント倉庫](./old_comments.md)
+
 
 ## マシュマロにお返事
 
 マシュマロを頂けたようで、ありがたいことですね。不定期に古い書き込みは消していきますが、悪しからずご了承ください。
-
-* やはりグランドシャトーは多方面から優秀な人材をかき集めているようですよね
-    * もちろん、優秀にも種類とか方向性の違いはあると思うので、特にコミュニケーション能力と顧客と近い立ち位置でサービスしていきたいという志向に特化して集めているように思いました
-    * にしても、システム的なサポートもあるだろうとは思うのですが、記録を見てどうにかなる話ではないことを拾って話題にしてきますよね
-    * 大満足派の声がなかなかX（Twitter）界隈に上げにくいところがあるのが難点で、どうしても『誰にでもこれをしてもらえるとは限らない』という対応が多いのですよね…
-    * という辺りと価格的に、なかなか連日全室満室モードというのは難しいのではないかと推測します
-    * ただ、未だに全室開放して稼働率100%にしてはいないという説もあるようですので、予約の難易度はある程度維持されるのかも知れません（でもアルコーヴ4-7辺りは割と落ちるのでは…）
 
 
 [中の人にマシュマロで質問やメッセージを送る](https://marshmallow-qa.com/ecu5ejrsz5qmtuu)
