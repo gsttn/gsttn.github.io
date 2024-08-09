@@ -43,7 +43,7 @@ TDRの希少価値が高く予約確保が困難なホテル宿泊とレスト�
     * [公式ネタ感想](./hotel/fsh_1st_impression.md) ： 発表されたファンタジースプリングスホテルの第一印象的な感想
     * [スプホ妄想](./hotel/fsh_fantasize.md) ： 発表されたファンタジースプリングスホテルの妄想ネタ
     * [最速攻略](./hotel/fsh_1st_guide.md) ： 発表された内容から攻略法を考察
-* 2024-02-08～03-06一括解放予約ネタ（旧情報）
+* 2024-02-08～03-06一括開放予約ネタ（旧情報）
     * [ファンタジースプリングスホテル02/08以降の予約対策](./hotel/fsh_guide_0208.md) ： 02/08から始まる一斉開放スプホ予約を狙う同志たちへ
     * [予約開放日の実績調査](./hotel/fsh_result_research.md) ： 実際の予約日の実績を記載
 
@@ -66,24 +66,16 @@ TDRの希少価値が高く予約確保が困難なホテル宿泊とレスト�
 
 ## 最近の界隈の様子/中の人コメント
 
-* ぼちぼちと[グランドシャトー宿泊対策](./hotel/fsh_grand_chateau_guide.md)のページも検索から流入があるようですね、X（Twitter）をヤメてしまったので宣伝していない割に頑張っている感があります（苦笑
-* ということで、読みましたよ、Dホテルヲタのバイブル（？）、グラン棟滞在中にスプホ内で何度かお見かけしたベスフォード社長の著書『ホテルの力』
-    * 内容はホテル業界で働く人や接客業の方に向けた話がメインという感じですが、TDR関連の話や価値観の辺りはゲストとして読んでも楽しめなくはない…という程度でしょうか
-    * 具体的にグランドシャトーの目指すところは書いていないですが、ラグジュアリーに対する解釈もそれなりにあったりするので、グラン棟の宿泊者や計画している人が読むと思うところはあるかも知れませんね
-    * ただ、開業後3ヶ月は…という話はSNS界隈におけるグラン棟の現状を見ると何とも言えない心持ちになりますが…（苦笑
-    * あ、↓はアフィリエイトリンクなので、嫌いな方は踏まずに自前で検索してみた方が良いかと思います
-
-<table border="0" cellpadding="0" cellspacing="0"><tr><td><div style="border:1px solid #95a5a6;border-radius:.75rem;background-color:#FFFFFF;width:504px;margin:0px;padding:5px;text-align:center;overflow:hidden;"><table><tr><td style="width:240px"><a href="https://hb.afl.rakuten.co.jp/ichiba/19a76e2d.f6765d7a.102273dd.7ee5e725/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17910348%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://hbb.afl.rakuten.co.jp/hgb/19a76e2d.f6765d7a.102273dd.7ee5e725/?me_id=1213310&item_id=21303302&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fbook%2Fcabinet%2F4178%2F9784065364178_1_2.jpg%3F_ex%3D240x240&s=240x240&t=picttext" border="0" style="margin:2px" alt="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]" title="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]"></a></td><td style="vertical-align:top;width:248px;display: block;"><p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px;word-wrap:break-word"><a href="https://hb.afl.rakuten.co.jp/ichiba/19a76e2d.f6765d7a.102273dd.7ee5e725/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17910348%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;">ホテルの力　チームが輝く魔法の経営 [ ミリアルリゾートホテルズ代表取締役社長 チャールズ・D・ベスフォード ]</a><br><span >価格：1,870円（税込、送料無料)</span> <span style="color:#BBB">(2024/7/27時点)</span></p><div style="margin:10px;"><a href="https://hb.afl.rakuten.co.jp/ichiba/19a76e2d.f6765d7a.102273dd.7ee5e725/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17910348%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://static.affiliate.rakuten.co.jp/makelink/rl.svg" style="float:left;max-height:27px;width:auto;margin-top:0" ></a><a href="https://hb.afl.rakuten.co.jp/ichiba/19a76e2d.f6765d7a.102273dd.7ee5e725/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17910348%2F%3Fscid%3Daf_pc_bbtn&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ==" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><div style="float:right;width:41%;height:27px;background-color:#bf0000;color:#fff!important;font-size:12px;font-weight:500;line-height:27px;margin-left:1px;padding: 0 12px;border-radius:16px;cursor:pointer;text-align:center;"> 楽天で購入 </div></a></div></td></tr></table></div><br><p style="color:#000000;font-size:12px;line-height:1.4em;margin:5px;word-wrap:break-word"></p></td></tr></table>
-
-* 中の人が信頼している数少ない情報源である、X（Twitter）の某アカウントの書き込みを見かけたので、少し[待合室関連を眺めて更新というか追記](./common/queue.md)しました
-    * それにしても、さすがにトラベルバッグのルートが待合室素通りになるのはマズイ対応だと思いますね
-    * というか、そもそもトラベルバッグの中が待合室を無視可能という時点で、問題ありだったと思いますがね
-    * TDR界隈ではお約束の**知っている人だけが一方的に得をする**という話の一環に過ぎないとも言えますが、さすがに負荷対策としてレベルが低すぎではないでしょうかね
-    * ちなみにすすむダイアログによる入室タイミングの調整の方は10分のままでしょうかね、現状の挙動だとこの調整が重要とも思えませんが
-    * とは言え、一括解放のような高負荷のタイミングでも現在の挙動のままとも限らないので、油断なく複数の手段で備える方が無難な気はしますね
-    * と思ったら、わずか数日で挙動変更ですか…（苦笑
-* 綺麗さっぱり忘れていましたが、アンバの部屋名が11/01に大きく変更されるようなので、変更前後の選択肢をURL生成プルダウンに併記するように変更しました
-    * 我ながらグランドシャトーというゴールに到達してからというもの、手放し運転が過ぎるというものですよね…（苦笑
+* 以下、私見100%な話ですよと言い訳したところで待合室ですが、仮にその方法があったとしても**そもそも待合室を無視して通過出来てしまって良いのか**という問題もあるのですよね
+    * 待合室の存在意義は**意地悪**や**下調べで努力した人を選別**することではなく、予約サイトへのアクセスが集中して予約が出来なくなることを回避すること、つまり予約サイトに同時に利用する人の数を絞ることですよね
+    * 例えば、極めてスペシャルな方法があって個人レベルで密やかに通り抜けるならまだしも、そのスペシャルな方法を多くの人に拡散するのは明らかに高負荷を招く悪手という気がします
+    * とは言え今回の一件のように、何らスペシャルな方法ではなく**普通に利用しているだけで通り抜けられる**という方法は、同じ高負荷を招くとしても明らかに公式側の落ち度なので拡散されても仕方ないとも思います
+    * **知っている人だけ一方的に得をする**状態と**みんなが知ってみんなで損する**状態と、どちらを目指す方がベターなのかは一般論としては断言し難いところですが、中の人としては**明らかに通常操作の範囲なら後者で良い**と考えています
+    * 通常操作の範囲である以上は誰もが気がつく可能性が十分にある訳ですから、隠す意味もあまりないでしょうしね
+    * 最終的には『みんなが待合室を無視すると、当然ながら予約サイトが高負荷になってしまい、誰も予約が進められない状態となる』ので、それが早いか遅いかの違いであり、遅くなれば知っている人だけ一方的に得をする状態が長く継続するだけのことでしょう
+    * つまるところ、どう転んでも色々な意味で公式の人に同情はしますが…という話題になりそうなので、これ以上はそっとしておきましょうか
+    * さておき、皆様は今もまだ存在すると思いますか？**待合室を完全に無視して予約サイトを利用する極めてスペシャルな方法**とやらが…（苦笑
+* ドリマはクリスマス期間もパスタセットの扱いがないということは、クリスマスのスペシャルなディナー枠が一括開放パターンでしょうかね…
 
 [過去のコメント倉庫](./old_comments.md)
 
@@ -106,11 +98,14 @@ TDRの希少価値が高く予約確保が困難なホテル宿泊とレスト�
 
 | 対象 | 販売期間 | 予約開放期間 | 備考 |
 | ------------- | ------------- | ------------- | ------------- |
-| [ハイピ：限定：ハロウィーン](https://www.tokyodisneyresort.jp/hotel/food/1000001810/) | 2024/09/01～2024/11/07 | 2024/06/01～2024/08/07 | **現在の開放時予約対象**、スペドリ：コースター付き |
-| [ハイピ：プレミ：ハロウィーン](https://www.tokyodisneyresort.jp/hotel/food/1000003118/) | 2024/09/01～2024/11/07 | 2024/06/01～2024/08/07 | **現在の開放時予約対象**、スペドリ：コースター付き |
-| [ハイピ：ライトディナー：ハロウィーン](https://www.tokyodisneyresort.jp/hotel/food/1000001812/) | 2024/10/24～2024/11/07 | 2024/08/01 13:00～2024/08/07 | **現在の開放時予約対象**、一部一括解放、チャーム付き |
-| [ドリマ：ハロウィーン前半](https://www.tokyodisneyresort.jp/hotel/food/1000003040/) | 2024/09/01～2024/09/30 | キャンセル拾い | 全期間一括解放、昼食＆夕食時間帯 |
-| [ドリマ：ハロウィーン後半](https://www.tokyodisneyresort.jp/hotel/food/1000003041/) | 2024/10/01～2024/11/07 | 2024/08/01 13:00～2024/08/07 | **現在の開放時予約対象**、一部一括解放、昼食＆夕食時間帯 |
+| ハイピ：限定：未発表 | 2024/11/08～ | 2024/08/08～ | **現在の開放時予約対象** |
+| ハイピ：プレミ：未発表 | 2024/11/08～ | 2024/08/08～ | **現在の開放時予約対象** |
+| ドリマ：アフヌン：未発表 | 2024/11/08～2024/12/25 | 2024/08/08～2024/09/25 | **現在の開放時予約対象** |
+| [ハイピ：限定：ハロウィーン](https://www.tokyodisneyresort.jp/hotel/food/1000001810/) | 2024/09/01～2024/11/07 | キャンセル拾い | スペドリ：コースター付き |
+| [ハイピ：プレミ：ハロウィーン](https://www.tokyodisneyresort.jp/hotel/food/1000003118/) | 2024/09/01～2024/11/07 | キャンセル拾い | スペドリ：コースター付き |
+| [ハイピ：ライトディナー：ハロウィーン](https://www.tokyodisneyresort.jp/hotel/food/1000001812/) | 2024/10/24～2024/11/07 | キャンセル拾い 13:00～2024/08/07 | 一部一括開放、チャーム付き |
+| [ドリマ：ハロウィーン前半](https://www.tokyodisneyresort.jp/hotel/food/1000003040/) | 2024/09/01～2024/09/30 | キャンセル拾い | 全期間一括開放、昼食＆夕食時間帯 |
+| [ドリマ：ハロウィーン後半](https://www.tokyodisneyresort.jp/hotel/food/1000003041/) | 2024/10/01～2024/11/07 | キャンセル拾い 13:00～2024/08/07 | 一部一括開放、昼食＆夕食時間帯 |
 | [ハイピ：限定：SuiSuiSummer](https://www.tokyodisneyresort.jp/hotel/food/1000002822/) | 2024/07/01～2024/08/31 | キャンセル拾い | スペドリ：コースター付き |
 | [ハイピ：プレミ：スペマン](https://www.tokyodisneyresort.jp/hotel/food/1000002689/) | 2024/06/10～2024/07/31 | キャンセル拾い | 08/01～08/31はプレミ休止 |
 | [ドリマ：アフヌン：夏メニュー](https://www.tokyodisneyresort.jp/hotel/food/1000002860/) | 2024/07/01～2024/08/31 | キャンセル拾い |  |
