@@ -73,7 +73,7 @@
     * ハバグラは屋根ありと屋根なしの2択になるが、グランドシャトーは多くの部屋で『屋根部分があるテラス／バルコニー』なので、天候の良し悪しの影響が少ないと言える
     * グランドシャトーは『浴槽とシャワーが別になっている浴室』と『洗い場一体型の浴室』の両方がある模様、ハバグラは別々、日本人には別々の浴室は扱いにくいか
     * 接客は確実にグランドシャトーの方が優れていると言えるが、あまり干渉して欲しくないのであればメリットとしては小さいとも言える
-    * グランドシャトーの各種サービスは概ねハバグラを含むスペチ部屋を上回り、スイートと同等かやや及ばない部分があるかも、くらいでイメージしておくと良いと思う
+    * グランドシャトーの各種サービスは概ねハバグラを含むスペチ部屋を上回り、スイートと同等かやや勝る部分とやや及ばない部分が混在するかも、くらいでイメージしておくと良いと思う
     * 価格は圧倒的にグランドシャトーの方が高いが、ハバグラ（ミラコ全般）もかなり値上げしてきているようで差は小さくなった気はする、でもグランドシャトーは高い
     * 予約難易度で見ると圧倒的にグランドシャトーの方が取りやすい、ハバグラの予約は極めて困難で相応の覚悟と日程を柔軟に設定する（予約できた日が旅行する日、旅行する日を予約するではなく）必要がある
 
@@ -304,6 +304,20 @@
 
 それと、中の人はグランドホニャララの部屋を利用しましたので、グランド級（グランドルーム／グランドテラス）とそれ以外で対応に差があるのか否か、という点は少し気になります。
 面と向かって質問しても、キャストさんは『差はありません』と応えるとは思いますが、実際のところは不明で検証も困難ですよね。
+
+あ、あと、グランドシャトーの記念品のアルバム？バインダー？なんと言うのか公式名称が不明ですが、グランドシャトーネタを検索している方なら見かけたことがある白いバインダーですが、旅のアレコレを挟み込もうと思うとページが足りない！となるのですよね。
+で、中の人は↓（アフィリエイトリンク）を利用して紙系の記念品はまとめて挟み込んでいます。
+
+<table border="0" cellpadding="0" cellspacing="0"><tr>
+<td><div style="border:1px solid #95a5a6;border-radius:.75rem;background-color:#FFFFFF;width:504px;margin:0px;padding:5px;text-align:center;overflow:hidden;"><table><tr>
+<td style="width:240px"><a href="https://hb.afl.rakuten.co.jp/ichiba/562ce9e8.8e4e0416.562ce9e9.b58dcfc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgazaihonpo%2Fyija7l9z%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://hbb.afl.rakuten.co.jp/hgb/562ce9e8.8e4e0416.562ce9e9.b58dcfc5/?me_id=1285247&item_id=10040151&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fgazaihonpo%2Fcabinet%2F01%2F0%2F1%2F2595af3886c38a5.jpg%3F_ex%3D240x240&s=240x240&t=picttext" border="0" style="margin:2px" alt="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]" title="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]"></a></td>
+<td style="vertical-align:top;width:248px;display: block;"><p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px;word-wrap:break-word"><a href="https://hb.afl.rakuten.co.jp/ichiba/562ce9e8.8e4e0416.562ce9e9.b58dcfc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgazaihonpo%2Fyija7l9z%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;">LIHIT クリヤーポケット N-2009 B6E 10枚 グレー - メール便対象</a><br><span >価格：312円（税込、送料別)</span> <span style="color:#BBB">(2026/7/30時点)</span></p><div style="margin:10px;"><a href="https://hb.afl.rakuten.co.jp/ichiba/562ce9e8.8e4e0416.562ce9e9.b58dcfc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgazaihonpo%2Fyija7l9z%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://static.affiliate.rakuten.co.jp/makelink/rl.svg" style="float:left;max-height:27px;width:auto;margin-top:0" ></a><a href="https://hb.afl.rakuten.co.jp/ichiba/562ce9e8.8e4e0416.562ce9e9.b58dcfc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgazaihonpo%2Fyija7l9z%2F%3Fscid%3Daf_pc_bbtn&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ==" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><div style="float:right;width:41%;height:27px;background-color:#bf0000;color:#fff!important;font-size:12px;font-weight:500;line-height:27px;margin-left:1px;padding: 0 12px;border-radius:16px;cursor:pointer;text-align:center;"> 楽天で購入 </div></a></div></td></tr></table></div>
+<br><p style="color:#000000;font-size:12px;line-height:1.4em;margin:5px;word-wrap:break-word"></p></td>
+</tr></table>
+
+本当はもう少し横幅が欲しいし、元々入っている白い袋のページが10枚くらい入っていればそれで解決なのですがね…。
+ちなみにこの商品に至るまでにはカードケースのようなモノにパンチャーで穴を開けたり、色々と試しましたが、宿泊した方は割とそれはそれ、これはこれで別々に保管（あるいは素直に処分）している感じなのでしょうかね？
+もっと良いグッズがあったら是非とも教えて欲しいところです。
 
 
 以上、気が向いたら内容を適宜更新するかも知れませんが、金額的にそう何度も行ける場所でもないので、なかなか新ネタは増やしにくいのが難点というページですね（苦笑
