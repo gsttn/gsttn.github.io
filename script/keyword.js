@@ -47,12 +47,13 @@ function seKeywordtHotelReserveURLForm(){
     <option value="DHM:（４名対応）:HODHMOQT0005N">部屋名に４名対応が含まれる</option>
 
   <option disabled style="color:red;">東京ディズニーランドホテル</option>
+    <option value="TDH:ビュー：東京ディズニーランド:HOTDHSPC0001N">パークビュー＆パークグランドビュー</option>
     <option value="TDH:タレットルーム:HOTDHRTT0001N">タレットルーム2種</option>
     <option value="TDH:コンシェルジュ・バルコニー:HOTDHRBC0001N">バルコニー2種</option>
     <option value="TDH:コンシェルジュ:HOTDHRPC0001N">コンシェルジュ全て</option>
 
   <option disabled style="color:red;">ファンタジースプリングスホテル</option>
-    <option value="FSH:見える客室:HOFSHRPT0001N">ファンタジーシャトーのパークが見える部屋</option>
+    <option value="FSH:ビュー：ファンタジースプリングス:HOFSHRPT0001N">ファンタジーシャトーのパークが見える部屋</option>
     <option value="FSH:スプリングスサイド:HOFSHSEA0001N">スプリングスサイド4種</option>
     <option value="FSH:デラックス・バルコニー:HOFSHSBT0001N">スプリングスサイドのバルコニー2種</option>
     <option value="FSH:テラスからは:HOFSHGTA0001N">グランドシャトーのテラス4種</option>
