@@ -1,0 +1,39 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* スマホ（画面幅768px以下）向けの上書き設定 */
+@media screen and (max-width: 48em) {
+  /* 本文の文字サイズと余白を微調整 */
+  .main-content {
+    font-size: 0.9rem;      /* 本文の文字サイズを少し小さく（デフォルトよりギュッと詰まります） */
+    line-height: 1.6;        /* 行間を適切にして読みやすく */
+    padding: 1.5rem 0.9rem;    /* 左右の余白を少し狭くして表示領域を広げる */
+  }
+
+  /* 見出し（H1, H2, H3...）が大きすぎて改行しまくるのを防ぐ */
+  .main-content h1 { font-size: 1.4rem; }
+  .main-content h2 { font-size: 1.2rem; }
+  .main-content h3 { font-size: 1.0rem; }
+
+  /* コードブロックや表の文字サイズも調整 */
+  .main-content code,
+  .main-content pre {
+    font-size: 0.85rem;
+  }
+
+  /* リスト（箇条書き・番号付きリスト）のインデントを調整 */
+  .main-content ul,
+  .main-content ol {
+    padding-left: 1.1rem; /* 👈 デフォルト（約2rem〜2.5rem）よりギュッと浅くする */
+  }
+
+  /* ネスト（入れ子）された2階層目以降のリストも余白を詰める */
+  .main-content ul ul,
+  .main-content ol ol,
+  .main-content ul ol,
+  .main-content ol ul {
+    padding-left: 1rem;
+  }
+}
